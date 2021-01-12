@@ -1,4 +1,4 @@
-# Research-Development-Clients-2017-2019
+# Thesis-Design-Clients-2017-2019
 
 ### About
 This repository contains the documents, source codes of all the thesis and
