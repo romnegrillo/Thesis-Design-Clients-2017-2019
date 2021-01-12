@@ -27,13 +27,13 @@ employed and self-employed.
 I won't update this repository. Feel free to take all files here a reference but 
 please do give me a credit. 
 
-# Summary of Project Categories
+### Summary of Project Categories
 * Software Development (Desktop, Web, Android)
 * Embedded Systems (Arduino, Raspberry Pi, ESP8266, ATMEGA328P)
 * Internet of Things (Firebase, Blynk, Thingspeak, MQTT)
 * Image Processing (OpenCV, MATLAB)
 
-# Project Titles (In no particular order)
+### Project Titles (In no particular order)
 * CpE Thesis - Integration of Fuzzy Logic and Wireless Accelerometer-based Motion Recognition Sensors for the Determination of Cerebral Palsy in Babies 
 * ECE Thesis - Remote Patient Monitoring and Recording of Vital Signs with Electrocardiogram Through GPS Integrated Internet of Things 
 * CpE Thesis - Determination of Persea Americana Fruit Ripening Stage using Electronic Nose with Fuzzy Logic Algorithm 
