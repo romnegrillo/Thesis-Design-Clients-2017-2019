@@ -10,8 +10,7 @@ Projects here are previously on separate repositories, I decided to compile it
 to one place so that it will be more organized. I did that because all of my 
 works here are still considered (for me) "low quality". I rushed most of it due 
 to the number of requests and I'm still not strict enough to write high quality code.
-Not all projects are recorded through those years are recorded, 
-some files are also incomplete.
+Not all projects are recorded through those years, some files are also incomplete.
 
 As of the time writing this README.md (2021), I improved my development skills a lot and 
 I'm strict to write good quality code. Due to my number of experiences and frustrations,
