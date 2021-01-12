@@ -1,0 +1,23 @@
+ACS712 Current Sensor Formula
+(Using 5V Logic)
+
+For 2A: 100mV / 1A
+I=(analogReading*(5000.0/1023.0)- acsOffset)*(1/100)
+
+====================================================
+
+Voltage Detection Module 25V
+(Using 5V Logic)
+
+R1=30000
+R2=7500
+V=analogReadingValue*(5.0/1023.0)*((R1+R2)/R2)
+
+====================================================
+
+LDR Formula
+(5V-3.3K-LDR-Gnd)
+
+float voltageReading = reading * (5.0 / 1023.0);
+float ldrVoltage = 5.0 - voltageReading; // Voltage across LDR,
+float lux = ((2500.0 / ldrVoltage) - 500.0) / 3.3; // 3.3k resistor.

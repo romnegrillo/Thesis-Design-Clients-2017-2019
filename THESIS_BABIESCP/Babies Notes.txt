@@ -1,0 +1,12 @@
+NODE 1 - Left Hand
+NODE 2 - Right Hand
+NODE 3 - Left Foot
+NODE 4 - Right Foot
+
+Receiver Format: NODE1,X,Y,Z,NODE2,X,Y,Z,NODE3,X,Y,Z,NODE4,X,Y,Z
+
+* All 4 nodes must be powered in order for the receiver to complete the string needed.
+* All data received by the receiver is save in the same format.
+* Another data which are the magnitude of all nodes are saved in L1,L2,L3,L4,time where Ln = sqrt(X^2 + Y^2 + X^2)
+* Magnitude will be the basis for determining with signs of CP or without signs of CP.
+* The receiver format is just a backup incase the magnitudes does not correlated to CP.    

@@ -1,0 +1,227 @@
+[
+    {
+        "view_id": 1964878160,
+        "time": "2019-05-16T10:24:13.590427",
+        "sequence": "ShowView",
+        "view_class": "ShellView"
+    },
+    {
+        "editor_id": 1964928272,
+        "sequence": "EditorTextCreated",
+        "editor_class": "Editor",
+        "text_widget_id": 1964927952,
+        "text_widget_class": "CodeViewText",
+        "time": "2019-05-16T10:24:13.807191"
+    },
+    {
+        "editor_id": 1964928272,
+        "sequence": "Open",
+        "editor_class": "Editor",
+        "text_widget_id": 1964927952,
+        "filename": "/home/pi/Desktop/Main/training_imageprocessing.py",
+        "time": "2019-05-16T10:24:13.810458",
+        "text_widget_class": "CodeViewText"
+    },
+    {
+        "index2": "2.0",
+        "time": "2019-05-16T10:24:13.811435",
+        "sequence": "TextDelete",
+        "text_widget_id": 1964927952,
+        "text_widget_class": "CodeViewText",
+        "index1": "1.0"
+    },
+    {
+        "sequence": "TextInsert",
+        "text": "import cv2\nimport numpy as np\nfrom picamera import PiCamera\nfrom picamera.array import PiRGBArray\n\nclass TrainingImageProcessing:\n\n    def __init__(self,usbcam=True,rpicam=False):\n        self.usbcam=usbcam\n        self.rpicam=rpicam\n        self.returnNumber=0\n\n        if self.usbcam:\n            self.cap=cv2.VideoCapture(0)\n        else:\n            self.cap=PiCamera()\n            self.rawCapture=PiRGBArray(self.cap)\n\n    def getImage(self):\n\n        if self.usbcam:\n            pass\n            ret,image=self.cap.read()\n        else:\n            self.cap.capture(self.rawCapture, format=\"bgr\", use_video_port=True)\n            image=self.rawCapture.array\n            self.rawCapture.truncate(0)\n\n        image=cv2.flip(image,1)\n        gray=cv2.cvtColor(image,cv2.COLOR_BGR2GRAY)\n\n        # Use otsu thresholding to get the high and low\n        # threshold value to be used in Canny edge detector.\n        t,thresh=cv2.threshold(gray,0,255,cv2.THRESH_BINARY_INV +\n                               cv2.THRESH_OTSU)\n\n        # Perform dilation and erosion\n        dilated=cv2.dilate(thresh,None,iterations=1)\n        eroded=cv2.erode(dilated,None,iterations=1)\n\n        # Find contours.\n        _,cnts,_=cv2.findContours(eroded,cv2.RETR_EXTERNAL,cv2.CHAIN_APPROX_SIMPLE)\n\n        # If there is atleast one contours.\n        if len(cnts):\n\n            # List for lengths of contours.\n            cntsLen=[]\n\n            # Append all the length of cnts.\n            for i in range(len(cnts)):\n                cntsLen.append(len(cnts[i]))\n\n            # Get the max length.   \n            maxIdxCnts=cntsLen.index(max(cntsLen))\n\n            # Draw the max length contours on another mask.\n            # Largest contours.\n            maskBinary=np.zeros(image.shape[:2],dtype=\"uint8\")\n            maskCnts=np.zeros(image.shape[:2],dtype=\"uint8\")\n            \n            cv2.drawContours(maskBinary,cnts,maxIdxCnts,(255),-1)\n            cv2.drawContours(maskCnts,cnts,maxIdxCnts,(255),2)\n\n            self.numWhitePixels=cv2.countNonZero(maskBinary)\n            self.totalPixels=image.shape[0]*image.shape[1]\n            self.areaPercentage=(self.numWhitePixels/self.totalPixels)*100\n\n            self.imageBGR=image\n            self.maskBinary=maskBinary\n            self.maskCnts=maskCnts\n\n        if self.returnNumber==0:\n            image=cv2.cvtColor(self.imageBGR,cv2.COLOR_BGR2RGB)\n            return image\n        elif self.returnNumber==1:\n            return self.maskBinary\n        elif self.returnNumber==2:\n            return self.maskCnts\n\n    def isCameraOpen(self):\n\n        if self.usbcam:\n            return self.cap.isOpened()\n        else:\n            # As long as no camera is functioning,\n            # it will remain open.\n            return True\n\n    def closeCam(self):\n        \n        if self.usbcam:\n            pass\n            self.cap.release()\n        else:\n            self.cap.close()\n\n    def getNumWhitePixels(self):\n        return self.numWhitePixels\n\n    def getTotalArea(self):\n        return self.totalPixels\n\n    def getAreaPercentage(self):\n        return self.areaPercentage\n\n    def setReturnNumber(self,num):\n        self.returnNumber=num\n\n    def saveImage(self,rgbName,binaryName,cntsName):\n        cv2.imwrite(rgbName,self.imageBGR)\n        cv2.imwrite(binaryName,self.maskBinary)\n        cv2.imwrite(cntsName,self.maskCnts)\n        \n",
+        "index": "1.0",
+        "tags": "None",
+        "text_widget_id": 1964927952,
+        "text_widget_class": "CodeViewText",
+        "time": "2019-05-16T10:24:14.067393"
+    },
+    {
+        "widget_id": 1990124112,
+        "widget_class": "Workbench",
+        "time": "2019-05-16T10:24:15.625987",
+        "sequence": "<FocusIn>"
+    },
+    {
+        "sequence": "TextInsert",
+        "text": "Python 3.5.3 (/usr/bin/python3)",
+        "index": "1.0",
+        "tags": "('comment',)",
+        "text_widget_id": 1964878320,
+        "time": "2019-05-16T10:24:16.897049",
+        "text_widget_class": "ShellText",
+        "text_widget_context": "shell"
+    },
+    {
+        "sequence": "TextInsert",
+        "text": "\n",
+        "index": "1.31",
+        "tags": "('io',)",
+        "text_widget_id": 1964878320,
+        "time": "2019-05-16T10:24:16.905486",
+        "text_widget_class": "ShellText",
+        "text_widget_context": "shell"
+    },
+    {
+        "sequence": "TextInsert",
+        "text": ">>> ",
+        "index": "2.0",
+        "tags": "('toplevel', 'prompt')",
+        "text_widget_id": 1964878320,
+        "time": "2019-05-16T10:24:16.911569",
+        "text_widget_class": "ShellText",
+        "text_widget_context": "shell"
+    },
+    {
+        "widget_id": 1965018192,
+        "widget_class": "Button",
+        "time": "2019-05-16T10:24:17.492711",
+        "sequence": "<Button-1>"
+    },
+    {
+        "time": "2019-05-16T10:24:17.553081",
+        "index2": "3.0",
+        "text_widget_context": "shell",
+        "sequence": "TextDelete",
+        "text_widget_id": 1964878320,
+        "text_widget_class": "ShellText",
+        "index1": "2.4"
+    },
+    {
+        "sequence": "TextInsert",
+        "text": "%cd /home/pi/Desktop/Main\n%Run training_imageprocessing.py\n",
+        "index": "2.4",
+        "tags": "('magic', 'toplevel', 'command')",
+        "text_widget_id": 1964878320,
+        "time": "2019-05-16T10:24:17.559668",
+        "text_widget_class": "ShellText",
+        "text_widget_context": "shell"
+    },
+    {
+        "time": "2019-05-16T10:24:17.568018",
+        "index2": "4.0",
+        "text_widget_context": "shell",
+        "sequence": "TextDelete",
+        "text_widget_id": 1964878320,
+        "text_widget_class": "ShellText",
+        "index1": "4.0"
+    },
+    {
+        "cmd_line": "%cd /home/pi/Desktop/Main\n",
+        "time": "2019-05-16T10:24:17.574934",
+        "sequence": "MagicCommand"
+    },
+    {
+        "time": "2019-05-16T10:24:17.584661",
+        "sequence": "ShellCommand",
+        "command_text": "%cd /home/pi/Desktop/Main\n"
+    },
+    {
+        "sequence": "TextInsert",
+        "text": ">>> ",
+        "index": "3.0",
+        "tags": "('toplevel', 'prompt')",
+        "text_widget_id": 1964878320,
+        "time": "2019-05-16T10:24:17.592878",
+        "text_widget_class": "ShellText",
+        "text_widget_context": "shell"
+    },
+    {
+        "time": "2019-05-16T10:24:17.599433",
+        "index2": "4.0",
+        "text_widget_context": "shell",
+        "sequence": "TextDelete",
+        "text_widget_id": 1964878320,
+        "text_widget_class": "ShellText",
+        "index1": "4.0"
+    },
+    {
+        "cmd_line": "%Run training_imageprocessing.py\n",
+        "time": "2019-05-16T10:24:17.606339",
+        "sequence": "MagicCommand"
+    },
+    {
+        "time": "2019-05-16T10:24:17.610514",
+        "sequence": "ShellCommand",
+        "command_text": "%Run training_imageprocessing.py\n"
+    },
+    {
+        "sequence": "TextInsert",
+        "text": ">>> ",
+        "index": "4.0",
+        "tags": "('toplevel', 'prompt')",
+        "text_widget_id": 1964878320,
+        "time": "2019-05-16T10:24:22.219851",
+        "text_widget_class": "ShellText",
+        "text_widget_context": "shell"
+    },
+    {
+        "widget_id": 1965018192,
+        "widget_class": "Button",
+        "time": "2019-05-16T10:24:44.928367",
+        "sequence": "<Button-1>"
+    },
+    {
+        "time": "2019-05-16T10:24:45.089292",
+        "index2": "5.0",
+        "text_widget_context": "shell",
+        "sequence": "TextDelete",
+        "text_widget_id": 1964878320,
+        "text_widget_class": "ShellText",
+        "index1": "4.4"
+    },
+    {
+        "sequence": "TextInsert",
+        "text": "%Run training_imageprocessing.py\n",
+        "index": "4.4",
+        "tags": "('magic', 'toplevel', 'command')",
+        "text_widget_id": 1964878320,
+        "time": "2019-05-16T10:24:45.095883",
+        "text_widget_class": "ShellText",
+        "text_widget_context": "shell"
+    },
+    {
+        "time": "2019-05-16T10:24:45.103711",
+        "index2": "5.0",
+        "text_widget_context": "shell",
+        "sequence": "TextDelete",
+        "text_widget_id": 1964878320,
+        "text_widget_class": "ShellText",
+        "index1": "5.0"
+    },
+    {
+        "cmd_line": "%Run training_imageprocessing.py\n",
+        "time": "2019-05-16T10:24:45.110585",
+        "sequence": "MagicCommand"
+    },
+    {
+        "time": "2019-05-16T10:24:46.413490",
+        "sequence": "ShellCommand",
+        "command_text": "%Run training_imageprocessing.py\n"
+    },
+    {
+        "sequence": "TextInsert",
+        "text": ">>> ",
+        "index": "5.0",
+        "tags": "('toplevel', 'prompt')",
+        "text_widget_id": 1964878320,
+        "time": "2019-05-16T10:24:48.103139",
+        "text_widget_class": "ShellText",
+        "text_widget_context": "shell"
+    },
+    {
+        "widget_id": 1990124112,
+        "widget_class": "Workbench",
+        "time": "2019-05-16T10:24:57.940184",
+        "sequence": "<FocusOut>"
+    },
+    {
+        "widget_id": 1990124112,
+        "widget_class": "Workbench",
+        "time": "2019-05-16T10:24:58.286600",
+        "sequence": "<FocusIn>"
+    }
+]

@@ -1,0 +1,131 @@
+{%extends 'vitalsigns/base.html'%}
+{%load static%}
+
+{%block loadFirebase%}
+
+
+    <script src="https://www.gstatic.com/firebasejs/4.2.0/firebase.js"></script>
+    <meta charset="utf-8">
+
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="stylesheet" href="{%static 'vitalsigns/css/circle.css'%}">
+{%endblock loadFirebase%}
+
+
+
+{%block content%}
+
+
+
+
+<div class="container">
+<div align="right">
+  <br><br>
+    <h1 style="text-align:left;">Patient: {{user_details.full_name}}<h1>
+     <form method="post" action="">
+       {%csrf_token%}
+
+  {%if isUser %}
+  <button type="button" name="vital_signs" value="vital_signs" class="btn btn-primary"><a style="text-decoration:none; color:inherit; " href="{%url 'vitalsigns_userprofile'%}">Profile</a></button>
+    <button type="button" name="vital_signs" value="vital_signs" class="btn btn-primary"><a style="text-decoration:none; color:inherit; " href="{%url 'vitalsigns_uservitals'%}">Vital Signs</a></button>
+    <button type="button" name="symptoms" value="symptoms" class="btn btn-primary" ><a style="text-decoration:none; color:inherit; " href="{%url 'vitalsigns_usersymptoms'%}">Symptoms</a></button>
+      <button type="submit" name="logout" value="logout" class="btn btn-danger">Logout</button>
+  {%endif%}
+
+</form>
+
+</div>
+</div>
+
+<!------ Include the above in your HEAD tag ---------->
+<section>
+	<div class="container">
+	  <div class="row">
+	    <div class="col-md-12">
+				{% if messages %}
+				<div class="alert alert-info" role="alert">{%for message in messages%}
+					<p><strong>{{ message }}</strong>
+					</p>
+				</div>{%endfor%} {% endif %}
+				<form method="post" action="">{% csrf_token %}
+
+
+					<div class="form-group">
+						<label>Full Name</label>
+						<input value="{{user_details.full_name}}"required type="text" class="form-control" placeholder="Full Name" name="full_name">
+					</div>
+					<div class="form-group">
+						<label>Age</label>
+						<input  value="{{user_details.age}}" required type="number" class="form-control" placeholder="Age" name="age">
+					</div>
+					<div class="form-group">Gender
+						<br>
+						<br>
+
+						{%if user_details.gender == 'male'%}
+						<input type="radio" name="gender_radio" value="male" checked>Male
+						<input type="radio" name="gender_radio" value="female">Female
+						{%else%}
+						<input type="radio" name="gender_radio" value="male">Male
+						<input type="radio" name="gender_radio" value="female" checked>Female
+						{%endif%}
+						<br>
+					</div>
+					<div class="form-group">
+						<label>Address</label>
+						<input  value="{{user_details.address}}" required type="text" class="form-control" placeholder="Address" name="address">
+					</div>
+					<div class="form-group">
+						<label>Assigned Doctor Mobile Number</label>
+						<input  value="{{user_details.assigned_doctor_number}}" required type="number" class="form-control" placeholder="Assigned Doctor Mobile Number" name="doctor_number">
+					</div>
+
+
+					<button type="submit" name="update_button" value="update_button" class="btn btn-primary">Update Info</button>
+
+					<br>
+					<br>
+				</form>
+
+				<!-- <form method="post" action="">{% csrf_token %}
+
+				<div class="form-group">
+					<label>Password</label>
+					<input required type="password" class="form-control" placeholder="Password" name="password">
+				</div>
+				<div class="form-group">
+					<label>Confirm Password</label>
+					<input required type="password" class="form-control" placeholder="Confirm Password" name="confirm_password">
+				</div>
+
+				<button type="submit" name="change_password_button" value="change_password_button" class="btn btn-primary">Change Password</button>
+
+
+					</form> -->
+	    </div>
+	  </div>
+	</div>
+
+		<br>
+		<br>
+
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+</section>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<script type="text/javascript">
+
+function deleteReadings()
+{
+
+	if (confirm('Are you sure you want to delete all the readings?')) {
+
+}
+}
+
+</script>
+{%endblock content%}

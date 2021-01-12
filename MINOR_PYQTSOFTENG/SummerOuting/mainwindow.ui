@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>712</width>
+    <height>411</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">#MainWindow
+{
+background-color: qconicalgradient(cx:1, cy:0.966, angle:0, stop:0 rgba(10, 90, 255, 255), stop:1 rgba(255, 255, 255, 255));
+}</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QGroupBox" name="groupBox">
+    <property name="geometry">
+     <rect>
+      <x>50</x>
+      <y>20</y>
+      <width>301</width>
+      <height>191</height>
+     </rect>
+    </property>
+    <property name="title">
+     <string>Scoring</string>
+    </property>
+    <widget class="QLabel" name="label">
+     <property name="geometry">
+      <rect>
+       <x>20</x>
+       <y>50</y>
+       <width>61</width>
+       <height>16</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>Candidate:</string>
+     </property>
+    </widget>
+    <widget class="QLabel" name="label_2">
+     <property name="geometry">
+      <rect>
+       <x>20</x>
+       <y>80</y>
+       <width>61</width>
+       <height>16</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>Category:</string>
+     </property>
+    </widget>
+    <widget class="QLabel" name="label_3">
+     <property name="geometry">
+      <rect>
+       <x>40</x>
+       <y>110</y>
+       <width>51</width>
+       <height>20</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>Score:</string>
+     </property>
+    </widget>
+    <widget class="QLabel" name="label_4">
+     <property name="geometry">
+      <rect>
+       <x>40</x>
+       <y>20</y>
+       <width>61</width>
+       <height>16</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>Judge:</string>
+     </property>
+    </widget>
+    <widget class="QComboBox" name="judgeCB">
+     <property name="geometry">
+      <rect>
+       <x>90</x>
+       <y>20</y>
+       <width>171</width>
+       <height>22</height>
+      </rect>
+     </property>
+     <item>
+      <property name="text">
+       <string>JUDGE NO. 1</string>
+      </property>
+     </item>
+     <item>
+      <property name="text">
+       <string>JUDGE NO. 2</string>
+      </property>
+     </item>
+     <item>
+      <property name="text">
+       <string>JUDGE NO. 3</string>
+      </property>
+     </item>
+    </widget>
+    <widget class="QComboBox" name="candidateCB">
+     <property name="geometry">
+      <rect>
+       <x>90</x>
+       <y>50</y>
+       <width>171</width>
+       <height>22</height>
+      </rect>
+     </property>
+     <item>
+      <property name="text">
+       <string>SAMANTHA TANQUECO</string>
+      </property>
+     </item>
+     <item>
+      <property name="text">
+       <string>BRIDALYN BEJERAS</string>
+      </property>
+     </item>
+     <item>
+      <property name="text">
+       <string>CHRISTINE LOISSE ALBOS</string>
+      </property>
+     </item>
+     <item>
+      <property name="text">
+       <string>DWIGHT TAGAPULOT</string>
+      </property>
+     </item>
+     <item>
+      <property name="text">
+       <string>JOHN MEDINA</string>
+      </property>
+     </item>
+     <item>
+      <property name="text">
+       <string>CHRYSTOPHER ONG</string>
+      </property>
+     </item>
+     <item>
+      <property name="text">
+       <string>EARL ZUNEGA</string>
+      </property>
+     </item>
+     <item>
+      <property name="text">
+       <string>CARL FRANCIS REYES</string>
+      </property>
+     </item>
+     <item>
+      <property name="text">
+       <string>JUMARIE MOCON</string>
+      </property>
+     </item>
+    </widget>
+    <widget class="QComboBox" name="catCB">
+     <property name="geometry">
+      <rect>
+       <x>90</x>
+       <y>80</y>
+       <width>171</width>
+       <height>22</height>
+      </rect>
+     </property>
+     <item>
+      <property name="text">
+       <string>Popularity Tickets</string>
+      </property>
+     </item>
+     <item>
+      <property name="text">
+       <string>Event Tickets</string>
+      </property>
+     </item>
+     <item>
+      <property name="text">
+       <string>Theme Wear</string>
+      </property>
+     </item>
+     <item>
+      <property name="text">
+       <string>Swim Wear</string>
+      </property>
+     </item>
+     <item>
+      <property name="text">
+       <string>Confidence</string>
+      </property>
+     </item>
+     <item>
+      <property name="text">
+       <string>Audience Impact</string>
+      </property>
+     </item>
+    </widget>
+    <widget class="QLineEdit" name="scoreTextbox">
+     <property name="geometry">
+      <rect>
+       <x>90</x>
+       <y>110</y>
+       <width>171</width>
+       <height>20</height>
+      </rect>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="pushButton">
+     <property name="geometry">
+      <rect>
+       <x>180</x>
+       <y>140</y>
+       <width>75</width>
+       <height>23</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>UPDATE</string>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="pushButton_2">
+     <property name="geometry">
+      <rect>
+       <x>100</x>
+       <y>140</y>
+       <width>75</width>
+       <height>23</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>VIEW</string>
+     </property>
+    </widget>
+   </widget>
+   <widget class="QGraphicsView" name="graphicsView">
+    <property name="geometry">
+     <rect>
+      <x>390</x>
+      <y>20</y>
+      <width>271</width>
+      <height>361</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">#graphicsView
+{
+background-image: url(&quot;images/candidates_resized/samantha.jpg&quot;);
+background-position: center; 
+background-repeat: no-repeat;
+}</string>
+    </property>
+   </widget>
+   <widget class="QGraphicsView" name="graphicsView_2">
+    <property name="geometry">
+     <rect>
+      <x>50</x>
+      <y>230</y>
+      <width>301</width>
+      <height>141</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">#graphicsView_2
+{
+background-image: url(&quot;images/sun_logo.png&quot;);
+background-position: center; 
+background-repeat: no-repeat;
+}</string>
+    </property>
+    <property name="frameShape">
+     <enum>QFrame::NoFrame</enum>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>712</width>
+     <height>21</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

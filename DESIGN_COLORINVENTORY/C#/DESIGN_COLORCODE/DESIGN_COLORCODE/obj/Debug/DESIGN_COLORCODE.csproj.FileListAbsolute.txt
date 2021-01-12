@@ -1,0 +1,178 @@
+C:\Users\windows\Documents\Visual Studio 2017\Projects\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\DESIGN_COLORCODE.exe.config
+C:\Users\windows\Documents\Visual Studio 2017\Projects\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\DESIGN_COLORCODE.exe
+C:\Users\windows\Documents\Visual Studio 2017\Projects\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\DESIGN_COLORCODE.pdb
+C:\Users\windows\Documents\Visual Studio 2017\Projects\DESIGN_COLORCODE\DESIGN_COLORCODE\obj\Debug\DESIGN_COLORCODE.csprojAssemblyReference.cache
+C:\Users\windows\Documents\Visual Studio 2017\Projects\DESIGN_COLORCODE\DESIGN_COLORCODE\obj\Debug\DESIGN_COLORCODE.Properties.Resources.resources
+C:\Users\windows\Documents\Visual Studio 2017\Projects\DESIGN_COLORCODE\DESIGN_COLORCODE\obj\Debug\DESIGN_COLORCODE.csproj.GenerateResource.cache
+C:\Users\windows\Documents\Visual Studio 2017\Projects\DESIGN_COLORCODE\DESIGN_COLORCODE\obj\Debug\DESIGN_COLORCODE.csproj.CoreCompileInputs.cache
+C:\Users\windows\Documents\Visual Studio 2017\Projects\DESIGN_COLORCODE\DESIGN_COLORCODE\obj\Debug\DESIGN_COLORCODE.exe
+C:\Users\windows\Documents\Visual Studio 2017\Projects\DESIGN_COLORCODE\DESIGN_COLORCODE\obj\Debug\DESIGN_COLORCODE.pdb
+C:\Users\windows\Documents\Visual Studio 2017\Projects\DESIGN_COLORCODE\DESIGN_COLORCODE\obj\Debug\DESIGN_COLORCODE.LoginForm.resources
+C:\Users\windows\Documents\Visual Studio 2017\Projects\DESIGN_COLORCODE\DESIGN_COLORCODE\obj\Debug\DESIGN_COLORCODE.AdminForm.resources
+C:\Users\windows\Documents\Visual Studio 2017\Projects\DESIGN_COLORCODE\DESIGN_COLORCODE\obj\Debug\DESIGN_COLORCODE.ChangePasswordForm.resources
+C:\Users\windows\Documents\Visual Studio 2017\Projects\DESIGN_COLORCODE\DESIGN_COLORCODE\obj\Debug\DESIGN_COLORCODE.ScanForm.resources
+C:\Users\windows\Documents\Visual Studio 2017\Projects\DESIGN_COLORCODE\DESIGN_COLORCODE\obj\Debug\DESIGN_COLORCODE.AddUserForm.resources
+C:\Users\windows\Documents\Visual Studio 2017\Projects\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\EntityFramework.dll
+C:\Users\windows\Documents\Visual Studio 2017\Projects\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\windows\Documents\Visual Studio 2017\Projects\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\System.Data.SQLite.dll
+C:\Users\windows\Documents\Visual Studio 2017\Projects\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\windows\Documents\Visual Studio 2017\Projects\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\windows\Documents\Visual Studio 2017\Projects\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\EntityFramework.xml
+C:\Users\windows\Documents\Visual Studio 2017\Projects\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\windows\Documents\Visual Studio 2017\Projects\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\System.Data.SQLite.xml
+C:\Users\windows\Documents\Visual Studio 2017\Projects\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\windows\Documents\Visual Studio 2017\Projects\DESIGN_COLORCODE\DESIGN_COLORCODE\obj\Debug\DESIGN_COLORCODE.csproj.CopyComplete
+C:\Users\windows\Documents\Visual Studio 2017\Projects\DESIGN_COLORCODE\DESIGN_COLORCODE\obj\Debug\DESIGN_COLORCODE.AddItemForm.resources
+C:\Users\windows\Documents\Visual Studio 2017\Projects\DESIGN_COLORCODE\DESIGN_COLORCODE\obj\Debug\DESIGN_COLORCODE.EditForm.resources
+C:\Users\windows\Documents\Visual Studio 2017\Projects\DESIGN_COLORCODE\DESIGN_COLORCODE\obj\Debug\DESIGN_COLORCODE.ViewForm.resources
+C:\Users\windows\Documents\Visual Studio 2017\Projects\DESIGN_COLORCODE\DESIGN_COLORCODE\obj\Debug\DESIGN_COLORCODE.ViewFormDialog.resources
+C:\Users\windows\Documents\Visual Studio 2017\Projects\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\ClosedXML.dll
+C:\Users\windows\Documents\Visual Studio 2017\Projects\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\windows\Documents\Visual Studio 2017\Projects\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\ExcelNumberFormat.dll
+C:\Users\windows\Documents\Visual Studio 2017\Projects\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\FastMember.dll
+C:\Users\windows\Documents\Visual Studio 2017\Projects\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\ClosedXML.pdb
+C:\Users\windows\Documents\Visual Studio 2017\Projects\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\ClosedXML.xml
+C:\Users\windows\Documents\Visual Studio 2017\Projects\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\windows\Documents\Visual Studio 2017\Projects\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\ExcelNumberFormat.xml
+D:\Desktop\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\DESIGN_COLORCODE.exe.config
+D:\Desktop\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\DESIGN_COLORCODE.exe
+D:\Desktop\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\DESIGN_COLORCODE.pdb
+D:\Desktop\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\ClosedXML.dll
+D:\Desktop\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Desktop\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\EntityFramework.dll
+D:\Desktop\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\EntityFramework.SqlServer.dll
+D:\Desktop\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\ExcelNumberFormat.dll
+D:\Desktop\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\FastMember.dll
+D:\Desktop\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\System.Data.SQLite.dll
+D:\Desktop\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Desktop\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Desktop\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\ClosedXML.pdb
+D:\Desktop\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\ClosedXML.xml
+D:\Desktop\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Desktop\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\EntityFramework.xml
+D:\Desktop\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\EntityFramework.SqlServer.xml
+D:\Desktop\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\ExcelNumberFormat.xml
+D:\Desktop\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\System.Data.SQLite.xml
+D:\Desktop\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\System.Data.SQLite.dll.config
+D:\Desktop\DESIGN_COLORCODE\DESIGN_COLORCODE\obj\Debug\DESIGN_COLORCODE.csprojAssemblyReference.cache
+D:\Desktop\DESIGN_COLORCODE\DESIGN_COLORCODE\obj\Debug\DESIGN_COLORCODE.AddItemForm.resources
+D:\Desktop\DESIGN_COLORCODE\DESIGN_COLORCODE\obj\Debug\DESIGN_COLORCODE.EditForm.resources
+D:\Desktop\DESIGN_COLORCODE\DESIGN_COLORCODE\obj\Debug\DESIGN_COLORCODE.ScanForm.resources
+D:\Desktop\DESIGN_COLORCODE\DESIGN_COLORCODE\obj\Debug\DESIGN_COLORCODE.AddUserForm.resources
+D:\Desktop\DESIGN_COLORCODE\DESIGN_COLORCODE\obj\Debug\DESIGN_COLORCODE.AdminForm.resources
+D:\Desktop\DESIGN_COLORCODE\DESIGN_COLORCODE\obj\Debug\DESIGN_COLORCODE.ChangePasswordForm.resources
+D:\Desktop\DESIGN_COLORCODE\DESIGN_COLORCODE\obj\Debug\DESIGN_COLORCODE.LoginForm.resources
+D:\Desktop\DESIGN_COLORCODE\DESIGN_COLORCODE\obj\Debug\DESIGN_COLORCODE.Properties.Resources.resources
+D:\Desktop\DESIGN_COLORCODE\DESIGN_COLORCODE\obj\Debug\DESIGN_COLORCODE.ViewForm.resources
+D:\Desktop\DESIGN_COLORCODE\DESIGN_COLORCODE\obj\Debug\DESIGN_COLORCODE.ViewFormDialog.resources
+D:\Desktop\DESIGN_COLORCODE\DESIGN_COLORCODE\obj\Debug\DESIGN_COLORCODE.csproj.GenerateResource.cache
+D:\Desktop\DESIGN_COLORCODE\DESIGN_COLORCODE\obj\Debug\DESIGN_COLORCODE.csproj.CoreCompileInputs.cache
+D:\Desktop\DESIGN_COLORCODE\DESIGN_COLORCODE\obj\Debug\DESIGN_COLORCODE.csproj.CopyComplete
+D:\Desktop\DESIGN_COLORCODE\DESIGN_COLORCODE\obj\Debug\DESIGN_COLORCODE.exe
+D:\Desktop\DESIGN_COLORCODE\DESIGN_COLORCODE\obj\Debug\DESIGN_COLORCODE.pdb
+D:\Documents\Clients\Ongoing\DESIGN_COLORINVENTORY\C# New\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\DESIGN_COLORCODE.exe.config
+D:\Documents\Clients\Ongoing\DESIGN_COLORINVENTORY\C# New\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\DESIGN_COLORCODE.exe
+D:\Documents\Clients\Ongoing\DESIGN_COLORINVENTORY\C# New\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\DESIGN_COLORCODE.pdb
+D:\Documents\Clients\Ongoing\DESIGN_COLORINVENTORY\C# New\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\ClosedXML.dll
+D:\Documents\Clients\Ongoing\DESIGN_COLORINVENTORY\C# New\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Documents\Clients\Ongoing\DESIGN_COLORINVENTORY\C# New\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\EntityFramework.dll
+D:\Documents\Clients\Ongoing\DESIGN_COLORINVENTORY\C# New\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\EntityFramework.SqlServer.dll
+D:\Documents\Clients\Ongoing\DESIGN_COLORINVENTORY\C# New\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\ExcelNumberFormat.dll
+D:\Documents\Clients\Ongoing\DESIGN_COLORINVENTORY\C# New\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\FastMember.dll
+D:\Documents\Clients\Ongoing\DESIGN_COLORINVENTORY\C# New\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\System.Data.SQLite.dll
+D:\Documents\Clients\Ongoing\DESIGN_COLORINVENTORY\C# New\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Documents\Clients\Ongoing\DESIGN_COLORINVENTORY\C# New\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Documents\Clients\Ongoing\DESIGN_COLORINVENTORY\C# New\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\ClosedXML.pdb
+D:\Documents\Clients\Ongoing\DESIGN_COLORINVENTORY\C# New\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\ClosedXML.xml
+D:\Documents\Clients\Ongoing\DESIGN_COLORINVENTORY\C# New\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Documents\Clients\Ongoing\DESIGN_COLORINVENTORY\C# New\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\EntityFramework.xml
+D:\Documents\Clients\Ongoing\DESIGN_COLORINVENTORY\C# New\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\EntityFramework.SqlServer.xml
+D:\Documents\Clients\Ongoing\DESIGN_COLORINVENTORY\C# New\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\ExcelNumberFormat.xml
+D:\Documents\Clients\Ongoing\DESIGN_COLORINVENTORY\C# New\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\System.Data.SQLite.xml
+D:\Documents\Clients\Ongoing\DESIGN_COLORINVENTORY\C# New\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\System.Data.SQLite.dll.config
+D:\Documents\Clients\Ongoing\DESIGN_COLORINVENTORY\C# New\DESIGN_COLORCODE\DESIGN_COLORCODE\obj\Debug\DESIGN_COLORCODE.csprojAssemblyReference.cache
+D:\Documents\Clients\Ongoing\DESIGN_COLORINVENTORY\C# New\DESIGN_COLORCODE\DESIGN_COLORCODE\obj\Debug\DESIGN_COLORCODE.AddItemForm.resources
+D:\Documents\Clients\Ongoing\DESIGN_COLORINVENTORY\C# New\DESIGN_COLORCODE\DESIGN_COLORCODE\obj\Debug\DESIGN_COLORCODE.EditForm.resources
+D:\Documents\Clients\Ongoing\DESIGN_COLORINVENTORY\C# New\DESIGN_COLORCODE\DESIGN_COLORCODE\obj\Debug\DESIGN_COLORCODE.ScanForm.resources
+D:\Documents\Clients\Ongoing\DESIGN_COLORINVENTORY\C# New\DESIGN_COLORCODE\DESIGN_COLORCODE\obj\Debug\DESIGN_COLORCODE.AddUserForm.resources
+D:\Documents\Clients\Ongoing\DESIGN_COLORINVENTORY\C# New\DESIGN_COLORCODE\DESIGN_COLORCODE\obj\Debug\DESIGN_COLORCODE.AdminForm.resources
+D:\Documents\Clients\Ongoing\DESIGN_COLORINVENTORY\C# New\DESIGN_COLORCODE\DESIGN_COLORCODE\obj\Debug\DESIGN_COLORCODE.ChangePasswordForm.resources
+D:\Documents\Clients\Ongoing\DESIGN_COLORINVENTORY\C# New\DESIGN_COLORCODE\DESIGN_COLORCODE\obj\Debug\DESIGN_COLORCODE.LoginForm.resources
+D:\Documents\Clients\Ongoing\DESIGN_COLORINVENTORY\C# New\DESIGN_COLORCODE\DESIGN_COLORCODE\obj\Debug\DESIGN_COLORCODE.Properties.Resources.resources
+D:\Documents\Clients\Ongoing\DESIGN_COLORINVENTORY\C# New\DESIGN_COLORCODE\DESIGN_COLORCODE\obj\Debug\DESIGN_COLORCODE.ViewForm.resources
+D:\Documents\Clients\Ongoing\DESIGN_COLORINVENTORY\C# New\DESIGN_COLORCODE\DESIGN_COLORCODE\obj\Debug\DESIGN_COLORCODE.ViewFormDialog.resources
+D:\Documents\Clients\Ongoing\DESIGN_COLORINVENTORY\C# New\DESIGN_COLORCODE\DESIGN_COLORCODE\obj\Debug\DESIGN_COLORCODE.csproj.GenerateResource.cache
+D:\Documents\Clients\Ongoing\DESIGN_COLORINVENTORY\C# New\DESIGN_COLORCODE\DESIGN_COLORCODE\obj\Debug\DESIGN_COLORCODE.csproj.CoreCompileInputs.cache
+D:\Documents\Clients\Ongoing\DESIGN_COLORINVENTORY\C# New\DESIGN_COLORCODE\DESIGN_COLORCODE\obj\Debug\DESIGN_COLORCODE.csproj.CopyComplete
+D:\Documents\Clients\Ongoing\DESIGN_COLORINVENTORY\C# New\DESIGN_COLORCODE\DESIGN_COLORCODE\obj\Debug\DESIGN_COLORCODE.exe
+D:\Documents\Clients\Ongoing\DESIGN_COLORINVENTORY\C# New\DESIGN_COLORCODE\DESIGN_COLORCODE\obj\Debug\DESIGN_COLORCODE.pdb
+C:\Users\Abram Magadia\Desktop\DESIGN_COLORINVENTORY-master\C#\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\DESIGN_COLORCODE.exe.config
+C:\Users\Abram Magadia\Desktop\DESIGN_COLORINVENTORY-master\C#\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\DESIGN_COLORCODE.exe
+C:\Users\Abram Magadia\Desktop\DESIGN_COLORINVENTORY-master\C#\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\DESIGN_COLORCODE.pdb
+C:\Users\Abram Magadia\Desktop\DESIGN_COLORINVENTORY-master\C#\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\ClosedXML.dll
+C:\Users\Abram Magadia\Desktop\DESIGN_COLORINVENTORY-master\C#\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Abram Magadia\Desktop\DESIGN_COLORINVENTORY-master\C#\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\EntityFramework.dll
+C:\Users\Abram Magadia\Desktop\DESIGN_COLORINVENTORY-master\C#\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Abram Magadia\Desktop\DESIGN_COLORINVENTORY-master\C#\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Abram Magadia\Desktop\DESIGN_COLORINVENTORY-master\C#\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\FastMember.dll
+C:\Users\Abram Magadia\Desktop\DESIGN_COLORINVENTORY-master\C#\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\System.Data.SQLite.dll
+C:\Users\Abram Magadia\Desktop\DESIGN_COLORINVENTORY-master\C#\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Abram Magadia\Desktop\DESIGN_COLORINVENTORY-master\C#\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Abram Magadia\Desktop\DESIGN_COLORINVENTORY-master\C#\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\ClosedXML.pdb
+C:\Users\Abram Magadia\Desktop\DESIGN_COLORINVENTORY-master\C#\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\ClosedXML.xml
+C:\Users\Abram Magadia\Desktop\DESIGN_COLORINVENTORY-master\C#\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Abram Magadia\Desktop\DESIGN_COLORINVENTORY-master\C#\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\EntityFramework.xml
+C:\Users\Abram Magadia\Desktop\DESIGN_COLORINVENTORY-master\C#\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Abram Magadia\Desktop\DESIGN_COLORINVENTORY-master\C#\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Abram Magadia\Desktop\DESIGN_COLORINVENTORY-master\C#\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\System.Data.SQLite.xml
+C:\Users\Abram Magadia\Desktop\DESIGN_COLORINVENTORY-master\C#\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Abram Magadia\Desktop\DESIGN_COLORINVENTORY-master\C#\DESIGN_COLORCODE\DESIGN_COLORCODE\obj\Debug\DESIGN_COLORCODE.csprojAssemblyReference.cache
+C:\Users\Abram Magadia\Desktop\DESIGN_COLORINVENTORY-master\C#\DESIGN_COLORCODE\DESIGN_COLORCODE\obj\Debug\DESIGN_COLORCODE.AddItemForm.resources
+C:\Users\Abram Magadia\Desktop\DESIGN_COLORINVENTORY-master\C#\DESIGN_COLORCODE\DESIGN_COLORCODE\obj\Debug\DESIGN_COLORCODE.EditForm.resources
+C:\Users\Abram Magadia\Desktop\DESIGN_COLORINVENTORY-master\C#\DESIGN_COLORCODE\DESIGN_COLORCODE\obj\Debug\DESIGN_COLORCODE.ScanForm.resources
+C:\Users\Abram Magadia\Desktop\DESIGN_COLORINVENTORY-master\C#\DESIGN_COLORCODE\DESIGN_COLORCODE\obj\Debug\DESIGN_COLORCODE.AddUserForm.resources
+C:\Users\Abram Magadia\Desktop\DESIGN_COLORINVENTORY-master\C#\DESIGN_COLORCODE\DESIGN_COLORCODE\obj\Debug\DESIGN_COLORCODE.AdminForm.resources
+C:\Users\Abram Magadia\Desktop\DESIGN_COLORINVENTORY-master\C#\DESIGN_COLORCODE\DESIGN_COLORCODE\obj\Debug\DESIGN_COLORCODE.ChangePasswordForm.resources
+C:\Users\Abram Magadia\Desktop\DESIGN_COLORINVENTORY-master\C#\DESIGN_COLORCODE\DESIGN_COLORCODE\obj\Debug\DESIGN_COLORCODE.LoginForm.resources
+C:\Users\Abram Magadia\Desktop\DESIGN_COLORINVENTORY-master\C#\DESIGN_COLORCODE\DESIGN_COLORCODE\obj\Debug\DESIGN_COLORCODE.Properties.Resources.resources
+C:\Users\Abram Magadia\Desktop\DESIGN_COLORINVENTORY-master\C#\DESIGN_COLORCODE\DESIGN_COLORCODE\obj\Debug\DESIGN_COLORCODE.ViewForm.resources
+C:\Users\Abram Magadia\Desktop\DESIGN_COLORINVENTORY-master\C#\DESIGN_COLORCODE\DESIGN_COLORCODE\obj\Debug\DESIGN_COLORCODE.ViewFormDialog.resources
+C:\Users\Abram Magadia\Desktop\DESIGN_COLORINVENTORY-master\C#\DESIGN_COLORCODE\DESIGN_COLORCODE\obj\Debug\DESIGN_COLORCODE.csproj.GenerateResource.cache
+C:\Users\Abram Magadia\Desktop\DESIGN_COLORINVENTORY-master\C#\DESIGN_COLORCODE\DESIGN_COLORCODE\obj\Debug\DESIGN_COLORCODE.csproj.CopyComplete
+C:\Users\Abram Magadia\Desktop\DESIGN_COLORINVENTORY-master\C#\DESIGN_COLORCODE\DESIGN_COLORCODE\obj\Debug\DESIGN_COLORCODE.exe
+C:\Users\Abram Magadia\Desktop\DESIGN_COLORINVENTORY-master\C#\DESIGN_COLORCODE\DESIGN_COLORCODE\obj\Debug\DESIGN_COLORCODE.pdb
+D:\Downloads\DESIGN_COLORINVENTORY-master\DESIGN_COLORINVENTORY-master\C#\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\DESIGN_COLORCODE.exe.config
+D:\Downloads\DESIGN_COLORINVENTORY-master\DESIGN_COLORINVENTORY-master\C#\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\DESIGN_COLORCODE.exe
+D:\Downloads\DESIGN_COLORINVENTORY-master\DESIGN_COLORINVENTORY-master\C#\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\DESIGN_COLORCODE.pdb
+D:\Downloads\DESIGN_COLORINVENTORY-master\DESIGN_COLORINVENTORY-master\C#\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\ClosedXML.dll
+D:\Downloads\DESIGN_COLORINVENTORY-master\DESIGN_COLORINVENTORY-master\C#\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Downloads\DESIGN_COLORINVENTORY-master\DESIGN_COLORINVENTORY-master\C#\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\EntityFramework.dll
+D:\Downloads\DESIGN_COLORINVENTORY-master\DESIGN_COLORINVENTORY-master\C#\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\EntityFramework.SqlServer.dll
+D:\Downloads\DESIGN_COLORINVENTORY-master\DESIGN_COLORINVENTORY-master\C#\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\ExcelNumberFormat.dll
+D:\Downloads\DESIGN_COLORINVENTORY-master\DESIGN_COLORINVENTORY-master\C#\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\FastMember.dll
+D:\Downloads\DESIGN_COLORINVENTORY-master\DESIGN_COLORINVENTORY-master\C#\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\System.Data.SQLite.dll
+D:\Downloads\DESIGN_COLORINVENTORY-master\DESIGN_COLORINVENTORY-master\C#\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Downloads\DESIGN_COLORINVENTORY-master\DESIGN_COLORINVENTORY-master\C#\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Downloads\DESIGN_COLORINVENTORY-master\DESIGN_COLORINVENTORY-master\C#\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\ClosedXML.pdb
+D:\Downloads\DESIGN_COLORINVENTORY-master\DESIGN_COLORINVENTORY-master\C#\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\ClosedXML.xml
+D:\Downloads\DESIGN_COLORINVENTORY-master\DESIGN_COLORINVENTORY-master\C#\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Downloads\DESIGN_COLORINVENTORY-master\DESIGN_COLORINVENTORY-master\C#\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\EntityFramework.xml
+D:\Downloads\DESIGN_COLORINVENTORY-master\DESIGN_COLORINVENTORY-master\C#\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\EntityFramework.SqlServer.xml
+D:\Downloads\DESIGN_COLORINVENTORY-master\DESIGN_COLORINVENTORY-master\C#\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\ExcelNumberFormat.xml
+D:\Downloads\DESIGN_COLORINVENTORY-master\DESIGN_COLORINVENTORY-master\C#\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\System.Data.SQLite.xml
+D:\Downloads\DESIGN_COLORINVENTORY-master\DESIGN_COLORINVENTORY-master\C#\DESIGN_COLORCODE\DESIGN_COLORCODE\bin\Debug\System.Data.SQLite.dll.config
+D:\Downloads\DESIGN_COLORINVENTORY-master\DESIGN_COLORINVENTORY-master\C#\DESIGN_COLORCODE\DESIGN_COLORCODE\obj\Debug\DESIGN_COLORCODE.csprojAssemblyReference.cache
+D:\Downloads\DESIGN_COLORINVENTORY-master\DESIGN_COLORINVENTORY-master\C#\DESIGN_COLORCODE\DESIGN_COLORCODE\obj\Debug\DESIGN_COLORCODE.AddItemForm.resources
+D:\Downloads\DESIGN_COLORINVENTORY-master\DESIGN_COLORINVENTORY-master\C#\DESIGN_COLORCODE\DESIGN_COLORCODE\obj\Debug\DESIGN_COLORCODE.EditForm.resources
+D:\Downloads\DESIGN_COLORINVENTORY-master\DESIGN_COLORINVENTORY-master\C#\DESIGN_COLORCODE\DESIGN_COLORCODE\obj\Debug\DESIGN_COLORCODE.ScanForm.resources
+D:\Downloads\DESIGN_COLORINVENTORY-master\DESIGN_COLORINVENTORY-master\C#\DESIGN_COLORCODE\DESIGN_COLORCODE\obj\Debug\DESIGN_COLORCODE.AddUserForm.resources
+D:\Downloads\DESIGN_COLORINVENTORY-master\DESIGN_COLORINVENTORY-master\C#\DESIGN_COLORCODE\DESIGN_COLORCODE\obj\Debug\DESIGN_COLORCODE.AdminForm.resources
+D:\Downloads\DESIGN_COLORINVENTORY-master\DESIGN_COLORINVENTORY-master\C#\DESIGN_COLORCODE\DESIGN_COLORCODE\obj\Debug\DESIGN_COLORCODE.ChangePasswordForm.resources
+D:\Downloads\DESIGN_COLORINVENTORY-master\DESIGN_COLORINVENTORY-master\C#\DESIGN_COLORCODE\DESIGN_COLORCODE\obj\Debug\DESIGN_COLORCODE.LoginForm.resources
+D:\Downloads\DESIGN_COLORINVENTORY-master\DESIGN_COLORINVENTORY-master\C#\DESIGN_COLORCODE\DESIGN_COLORCODE\obj\Debug\DESIGN_COLORCODE.Properties.Resources.resources
+D:\Downloads\DESIGN_COLORINVENTORY-master\DESIGN_COLORINVENTORY-master\C#\DESIGN_COLORCODE\DESIGN_COLORCODE\obj\Debug\DESIGN_COLORCODE.ViewForm.resources
+D:\Downloads\DESIGN_COLORINVENTORY-master\DESIGN_COLORINVENTORY-master\C#\DESIGN_COLORCODE\DESIGN_COLORCODE\obj\Debug\DESIGN_COLORCODE.ViewFormDialog.resources
+D:\Downloads\DESIGN_COLORINVENTORY-master\DESIGN_COLORINVENTORY-master\C#\DESIGN_COLORCODE\DESIGN_COLORCODE\obj\Debug\DESIGN_COLORCODE.csproj.GenerateResource.cache
+D:\Downloads\DESIGN_COLORINVENTORY-master\DESIGN_COLORINVENTORY-master\C#\DESIGN_COLORCODE\DESIGN_COLORCODE\obj\Debug\DESIGN_COLORCODE.csproj.CopyComplete
+D:\Downloads\DESIGN_COLORINVENTORY-master\DESIGN_COLORINVENTORY-master\C#\DESIGN_COLORCODE\DESIGN_COLORCODE\obj\Debug\DESIGN_COLORCODE.exe
+D:\Downloads\DESIGN_COLORINVENTORY-master\DESIGN_COLORINVENTORY-master\C#\DESIGN_COLORCODE\DESIGN_COLORCODE\obj\Debug\DESIGN_COLORCODE.pdb

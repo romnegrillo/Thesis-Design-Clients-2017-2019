@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">a* KAMATIS</string>
+    <string name="about_details"></string>
+    <string name="press_to_capture">Press to Capture:</string>
+    <string name="capture">Capture</string>
+    <string name="rgb">RGB</string>
+    <string name="binary">Binary</string>
+    <string name="l_a_b">L*a*b*</string>
+    <string name="threshlold_0_255">Saturation [0, 255]:</string>
+    <string name="blank">-</string>
+    <string name="average_rgb">Average RGB:</string>
+    <string name="average_l_a_b">Average L*a*b*:</string>
+    <string name="average_a_channel">Average a* Channel:</string>
+    <string name="maturity_stage">Maturity Stage:</string>
+    <string name="life_expectancy">Days to Fully Ripen:</string>
+    <string name="nutritional_contents">Nutritional Contents:</string>
+    <string name="suggested_used">Stage Transition:</string>
+    <string name="aboutString">\n\na* KAMATIS\n
+        v1.1\n\n
+        Mobile version of out thesis entitled:\n\n
+        Determination of Maturity Stage, Shelf-life, Nutritional Content and Suggested Use for the Stages of Tomatoes Using Color Space Conversion Algorithm Using Raspberry Pi\n\n\n
+    </string>
+    <string name="howToUseString">Note that during the testing, all test should be done in a controlled environment.\n\n
+        Users are expected to adjust the environment lighting and the camera distance from the tomato.\n\n
+        First, select a tomato to scan.\n\n
+        Place it in a place with white background. The background should be light because of we are thresholding it.\n\n
+        Use the application to view the tomato in camera.\n\n
+        Click the Binary Button and adjust the threshold so that the tomato is only the region of white pixels.\n\n
+        Click the Capture Button and see the results.</string>
+</resources>

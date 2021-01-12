@@ -1,0 +1,70 @@
+C:\Users\mraba\Desktop\Rice_design\Rice_design\bin\Debug\Rice_design.exe.config
+C:\Users\mraba\Desktop\Rice_design\Rice_design\bin\Debug\Rice_design.exe
+C:\Users\mraba\Desktop\Rice_design\Rice_design\bin\Debug\Rice_design.pdb
+C:\Users\mraba\Desktop\Rice_design\Rice_design\obj\Debug\Rice_design.csprojResolveAssemblyReference.cache
+C:\Users\mraba\Desktop\Rice_design\Rice_design\obj\Debug\Rice_design.Form1.resources
+C:\Users\mraba\Desktop\Rice_design\Rice_design\obj\Debug\Rice_design.Properties.Resources.resources
+C:\Users\mraba\Desktop\Rice_design\Rice_design\obj\Debug\Rice_design.csproj.GenerateResource.Cache
+C:\Users\mraba\Desktop\Rice_design\Rice_design\obj\Debug\Rice_design.csproj.CoreCompileInputs.cache
+C:\Users\mraba\Desktop\Rice_design\Rice_design\obj\Debug\Rice_design.exe
+C:\Users\mraba\Desktop\Rice_design\Rice_design\obj\Debug\Rice_design.pdb
+C:\Users\james\Desktop\Rice_design\Rice_design\Rice_design\bin\Debug\Rice_design.exe.config
+C:\Users\james\Desktop\Rice_design\Rice_design\Rice_design\bin\Debug\Rice_design.exe
+C:\Users\james\Desktop\Rice_design\Rice_design\Rice_design\bin\Debug\Rice_design.pdb
+C:\Users\james\Desktop\Rice_design\Rice_design\Rice_design\obj\Debug\Rice_design.csprojResolveAssemblyReference.cache
+C:\Users\james\Desktop\Rice_design\Rice_design\Rice_design\obj\Debug\Rice_design.Form1.resources
+C:\Users\james\Desktop\Rice_design\Rice_design\Rice_design\obj\Debug\Rice_design.Properties.Resources.resources
+C:\Users\james\Desktop\Rice_design\Rice_design\Rice_design\obj\Debug\Rice_design.csproj.GenerateResource.Cache
+C:\Users\james\Desktop\Rice_design\Rice_design\Rice_design\obj\Debug\Rice_design.csproj.CoreCompileInputs.cache
+C:\Users\james\Desktop\Rice_design\Rice_design\Rice_design\obj\Debug\Rice_design.exe
+C:\Users\james\Desktop\Rice_design\Rice_design\Rice_design\obj\Debug\Rice_design.pdb
+C:\Users\james\Documents\Ching Maveric (Do Not Enter)\MAPUA\5th year\1st term\COE123D\Rice_design\Rice_design\Rice_design\bin\Debug\Rice_design.exe.config
+C:\Users\james\Documents\Ching Maveric (Do Not Enter)\MAPUA\5th year\1st term\COE123D\Rice_design\Rice_design\Rice_design\bin\Debug\Rice_design.exe
+C:\Users\james\Documents\Ching Maveric (Do Not Enter)\MAPUA\5th year\1st term\COE123D\Rice_design\Rice_design\Rice_design\bin\Debug\Rice_design.pdb
+C:\Users\james\Documents\Ching Maveric (Do Not Enter)\MAPUA\5th year\1st term\COE123D\Rice_design\Rice_design\Rice_design\obj\Debug\Rice_design.csprojResolveAssemblyReference.cache
+C:\Users\james\Documents\Ching Maveric (Do Not Enter)\MAPUA\5th year\1st term\COE123D\Rice_design\Rice_design\Rice_design\obj\Debug\Rice_design.Form1.resources
+C:\Users\james\Documents\Ching Maveric (Do Not Enter)\MAPUA\5th year\1st term\COE123D\Rice_design\Rice_design\Rice_design\obj\Debug\Rice_design.Properties.Resources.resources
+C:\Users\james\Documents\Ching Maveric (Do Not Enter)\MAPUA\5th year\1st term\COE123D\Rice_design\Rice_design\Rice_design\obj\Debug\Rice_design.csproj.GenerateResource.Cache
+C:\Users\james\Documents\Ching Maveric (Do Not Enter)\MAPUA\5th year\1st term\COE123D\Rice_design\Rice_design\Rice_design\obj\Debug\Rice_design.csproj.CoreCompileInputs.cache
+C:\Users\james\Documents\Ching Maveric (Do Not Enter)\MAPUA\5th year\1st term\COE123D\Rice_design\Rice_design\Rice_design\obj\Debug\Rice_design.exe
+C:\Users\james\Documents\Ching Maveric (Do Not Enter)\MAPUA\5th year\1st term\COE123D\Rice_design\Rice_design\Rice_design\obj\Debug\Rice_design.pdb
+C:\Users\james\Documents\Mapua\COE123D 5Y1T\Rice_design\Rice_design\Rice_design\bin\Debug\Rice_design.exe.config
+C:\Users\james\Documents\Mapua\COE123D 5Y1T\Rice_design\Rice_design\Rice_design\bin\Debug\Rice_design.exe
+C:\Users\james\Documents\Mapua\COE123D 5Y1T\Rice_design\Rice_design\Rice_design\bin\Debug\Rice_design.pdb
+C:\Users\james\Documents\Mapua\COE123D 5Y1T\Rice_design\Rice_design\Rice_design\obj\Debug\Rice_design.csprojAssemblyReference.cache
+C:\Users\james\Documents\Mapua\COE123D 5Y1T\Rice_design\Rice_design\Rice_design\obj\Debug\Rice_design.Form1.resources
+C:\Users\james\Documents\Mapua\COE123D 5Y1T\Rice_design\Rice_design\Rice_design\obj\Debug\Rice_design.Properties.Resources.resources
+C:\Users\james\Documents\Mapua\COE123D 5Y1T\Rice_design\Rice_design\Rice_design\obj\Debug\Rice_design.csproj.GenerateResource.cache
+C:\Users\james\Documents\Mapua\COE123D 5Y1T\Rice_design\Rice_design\Rice_design\obj\Debug\Rice_design.csproj.CoreCompileInputs.cache
+C:\Users\james\Documents\Mapua\COE123D 5Y1T\Rice_design\Rice_design\Rice_design\obj\Debug\Rice_design.exe
+C:\Users\james\Documents\Mapua\COE123D 5Y1T\Rice_design\Rice_design\Rice_design\obj\Debug\Rice_design.pdb
+G:\User\james\Documents\Mapua\COE123D 5Y1T\Rice_design Code\Rice_design\Rice_design\bin\Debug\Rice_design.exe.config
+G:\User\james\Documents\Mapua\COE123D 5Y1T\Rice_design Code\Rice_design\Rice_design\bin\Debug\Rice_design.exe
+G:\User\james\Documents\Mapua\COE123D 5Y1T\Rice_design Code\Rice_design\Rice_design\bin\Debug\Rice_design.pdb
+G:\User\james\Documents\Mapua\COE123D 5Y1T\Rice_design Code\Rice_design\Rice_design\obj\Debug\Rice_design.csprojAssemblyReference.cache
+G:\User\james\Documents\Mapua\COE123D 5Y1T\Rice_design Code\Rice_design\Rice_design\obj\Debug\Rice_design.Form1.resources
+G:\User\james\Documents\Mapua\COE123D 5Y1T\Rice_design Code\Rice_design\Rice_design\obj\Debug\Rice_design.Properties.Resources.resources
+G:\User\james\Documents\Mapua\COE123D 5Y1T\Rice_design Code\Rice_design\Rice_design\obj\Debug\Rice_design.csproj.GenerateResource.cache
+G:\User\james\Documents\Mapua\COE123D 5Y1T\Rice_design Code\Rice_design\Rice_design\obj\Debug\Rice_design.csproj.CoreCompileInputs.cache
+G:\User\james\Documents\Mapua\COE123D 5Y1T\Rice_design Code\Rice_design\Rice_design\obj\Debug\Rice_design.exe
+G:\User\james\Documents\Mapua\COE123D 5Y1T\Rice_design Code\Rice_design\Rice_design\obj\Debug\Rice_design.pdb
+G:\User\james\Documents\Mapua\COE123D 5Y1T\Rice_design Code\Rice_design GUI\Rice_design\bin\Debug\Rice_design.exe.config
+G:\User\james\Documents\Mapua\COE123D 5Y1T\Rice_design Code\Rice_design GUI\Rice_design\bin\Debug\Rice_design.exe
+G:\User\james\Documents\Mapua\COE123D 5Y1T\Rice_design Code\Rice_design GUI\Rice_design\bin\Debug\Rice_design.pdb
+G:\User\james\Documents\Mapua\COE123D 5Y1T\Rice_design Code\Rice_design GUI\Rice_design\obj\Debug\Rice_design.csprojAssemblyReference.cache
+G:\User\james\Documents\Mapua\COE123D 5Y1T\Rice_design Code\Rice_design GUI\Rice_design\obj\Debug\Rice_design.Form1.resources
+G:\User\james\Documents\Mapua\COE123D 5Y1T\Rice_design Code\Rice_design GUI\Rice_design\obj\Debug\Rice_design.Properties.Resources.resources
+G:\User\james\Documents\Mapua\COE123D 5Y1T\Rice_design Code\Rice_design GUI\Rice_design\obj\Debug\Rice_design.csproj.GenerateResource.cache
+G:\User\james\Documents\Mapua\COE123D 5Y1T\Rice_design Code\Rice_design GUI\Rice_design\obj\Debug\Rice_design.csproj.CoreCompileInputs.cache
+G:\User\james\Documents\Mapua\COE123D 5Y1T\Rice_design Code\Rice_design GUI\Rice_design\obj\Debug\Rice_design.exe
+G:\User\james\Documents\Mapua\COE123D 5Y1T\Rice_design Code\Rice_design GUI\Rice_design\obj\Debug\Rice_design.pdb
+C:\Users\windows\Documents\Clients\Ongoing\MINOR_FIX_DESIGN_RICE\Rice_design Code\Rice_design GUI\Rice_design\obj\Debug\Rice_design.csprojAssemblyReference.cache
+C:\Users\windows\Documents\Clients\Ongoing\MINOR_FIX_DESIGN_RICE\Rice_design Code\Rice_design GUI\Rice_design\obj\Debug\Rice_design.exe
+C:\Users\windows\Documents\Clients\Ongoing\MINOR_FIX_DESIGN_RICE\Rice_design Code\Rice_design GUI\Rice_design\obj\Debug\Rice_design.pdb
+C:\Users\windows\Documents\Clients\Ongoing\MINOR_FIX_DESIGN_RICE\Rice_design Code\Rice_design GUI\Rice_design\bin\Debug\Rice_design.exe.config
+C:\Users\windows\Documents\Clients\Ongoing\MINOR_FIX_DESIGN_RICE\Rice_design Code\Rice_design GUI\Rice_design\bin\Debug\Rice_design.exe
+C:\Users\windows\Documents\Clients\Ongoing\MINOR_FIX_DESIGN_RICE\Rice_design Code\Rice_design GUI\Rice_design\bin\Debug\Rice_design.pdb
+C:\Users\windows\Documents\Clients\Ongoing\MINOR_FIX_DESIGN_RICE\Rice_design Code\Rice_design GUI\Rice_design\obj\Debug\Rice_design.Form1.resources
+C:\Users\windows\Documents\Clients\Ongoing\MINOR_FIX_DESIGN_RICE\Rice_design Code\Rice_design GUI\Rice_design\obj\Debug\Rice_design.Properties.Resources.resources
+C:\Users\windows\Documents\Clients\Ongoing\MINOR_FIX_DESIGN_RICE\Rice_design Code\Rice_design GUI\Rice_design\obj\Debug\Rice_design.csproj.GenerateResource.cache
+C:\Users\windows\Documents\Clients\Ongoing\MINOR_FIX_DESIGN_RICE\Rice_design Code\Rice_design GUI\Rice_design\obj\Debug\Rice_design.csproj.CoreCompileInputs.cache

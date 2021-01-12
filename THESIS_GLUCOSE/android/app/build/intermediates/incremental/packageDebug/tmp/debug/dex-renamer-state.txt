@@ -1,0 +1,4 @@
+#Wed Sep 30 19:03:15 SGT 2020
+base.0=D\:\\Documents\\Clients\\Finished\\THESIS_GLUCOSE\\android\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

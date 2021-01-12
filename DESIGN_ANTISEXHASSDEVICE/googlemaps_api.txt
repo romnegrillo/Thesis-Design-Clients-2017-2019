@@ -1,0 +1,3 @@
+android.intent.action.VIEW
+com.google.android.maps.MapsActivity
+com.google.android.apps.maps

@@ -1,0 +1,162 @@
+C:\Users\windows\Documents\Visual Studio 2017\Projects\Webert\Webert\bin\Debug\Webert.exe.config
+C:\Users\windows\Documents\Visual Studio 2017\Projects\Webert\Webert\bin\Debug\Webert.exe
+C:\Users\windows\Documents\Visual Studio 2017\Projects\Webert\Webert\bin\Debug\Webert.pdb
+C:\Users\windows\Documents\Visual Studio 2017\Projects\Webert\Webert\obj\Debug\Webert.csprojResolveAssemblyReference.cache
+C:\Users\windows\Documents\Visual Studio 2017\Projects\Webert\Webert\obj\Debug\Webert.LoginForm.resources
+C:\Users\windows\Documents\Visual Studio 2017\Projects\Webert\Webert\obj\Debug\Webert.Properties.Resources.resources
+C:\Users\windows\Documents\Visual Studio 2017\Projects\Webert\Webert\obj\Debug\Webert.csproj.GenerateResource.Cache
+C:\Users\windows\Documents\Visual Studio 2017\Projects\Webert\Webert\obj\Debug\Webert.csproj.CoreCompileInputs.cache
+C:\Users\windows\Documents\Visual Studio 2017\Projects\Webert\Webert\obj\Debug\Webert.exe
+C:\Users\windows\Documents\Visual Studio 2017\Projects\Webert\Webert\obj\Debug\Webert.pdb
+C:\Users\windows\Documents\Visual Studio 2017\Projects\Webert\Webert\obj\Debug\Webert.AdminForm.resources
+C:\Users\windows\Documents\Visual Studio 2017\Projects\Webert\Webert\bin\Debug\MySql.Data.dll
+C:\Users\windows\Documents\Visual Studio 2017\Projects\Webert\Webert\bin\Debug\Google.Protobuf.dll
+C:\Users\windows\Documents\Visual Studio 2017\Projects\Webert\Webert\bin\Debug\MySql.Data.xml
+C:\Users\windows\Documents\Ongoing Projects\[1] Attendance Monitoring Using Fingerprint Authentication\Webert\Webert\obj\Debug\Webert.csprojResolveAssemblyReference.cache
+C:\Users\windows\Documents\Ongoing Projects\[1] Attendance Monitoring Using Fingerprint Authentication\Webert\Webert\obj\Debug\Webert.csproj.ResolveComReference.cache
+C:\Users\windows\Documents\Ongoing Projects\[1] Attendance Monitoring Using Fingerprint Authentication\Webert\Webert\obj\Debug\Webert.AdminForm.resources
+C:\Users\windows\Documents\Ongoing Projects\[1] Attendance Monitoring Using Fingerprint Authentication\Webert\Webert\obj\Debug\Webert.LoginForm.resources
+C:\Users\windows\Documents\Ongoing Projects\[1] Attendance Monitoring Using Fingerprint Authentication\Webert\Webert\obj\Debug\Webert.Properties.Resources.resources
+C:\Users\windows\Documents\Ongoing Projects\[1] Attendance Monitoring Using Fingerprint Authentication\Webert\Webert\obj\Debug\Webert.csproj.GenerateResource.Cache
+C:\Users\windows\Documents\Ongoing Projects\[1] Attendance Monitoring Using Fingerprint Authentication\Webert\Webert\obj\Debug\Webert.csproj.CoreCompileInputs.cache
+C:\Users\windows\Documents\Ongoing Projects\[1] Attendance Monitoring Using Fingerprint Authentication\Webert\Webert\bin\Debug\Webert.exe.config
+C:\Users\windows\Documents\Ongoing Projects\[1] Attendance Monitoring Using Fingerprint Authentication\Webert\Webert\bin\Debug\Webert.exe
+C:\Users\windows\Documents\Ongoing Projects\[1] Attendance Monitoring Using Fingerprint Authentication\Webert\Webert\bin\Debug\Webert.pdb
+C:\Users\windows\Documents\Ongoing Projects\[1] Attendance Monitoring Using Fingerprint Authentication\Webert\Webert\bin\Debug\MetroFramework.Design.dll
+C:\Users\windows\Documents\Ongoing Projects\[1] Attendance Monitoring Using Fingerprint Authentication\Webert\Webert\bin\Debug\MetroFramework.dll
+C:\Users\windows\Documents\Ongoing Projects\[1] Attendance Monitoring Using Fingerprint Authentication\Webert\Webert\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\windows\Documents\Ongoing Projects\[1] Attendance Monitoring Using Fingerprint Authentication\Webert\Webert\bin\Debug\MySql.Data.dll
+C:\Users\windows\Documents\Ongoing Projects\[1] Attendance Monitoring Using Fingerprint Authentication\Webert\Webert\bin\Debug\Google.Protobuf.dll
+C:\Users\windows\Documents\Ongoing Projects\[1] Attendance Monitoring Using Fingerprint Authentication\Webert\Webert\bin\Debug\MySql.Data.xml
+C:\Users\windows\Documents\Ongoing Projects\[1] Attendance Monitoring Using Fingerprint Authentication\Webert\Webert\obj\Debug\Webert.exe
+C:\Users\windows\Documents\Ongoing Projects\[1] Attendance Monitoring Using Fingerprint Authentication\Webert\Webert\obj\Debug\Webert.pdb
+C:\Users\windows\Documents\Ongoing Projects - Papers and Files\[1] Attendance Monitoring Using Fingerprint Authentication\Webert\Webert\bin\Debug\Webert.exe.config
+C:\Users\windows\Documents\Ongoing Projects - Papers and Files\[1] Attendance Monitoring Using Fingerprint Authentication\Webert\Webert\bin\Debug\Webert.exe
+C:\Users\windows\Documents\Ongoing Projects - Papers and Files\[1] Attendance Monitoring Using Fingerprint Authentication\Webert\Webert\bin\Debug\Webert.pdb
+C:\Users\windows\Documents\Ongoing Projects - Papers and Files\[1] Attendance Monitoring Using Fingerprint Authentication\Webert\Webert\bin\Debug\MetroFramework.Design.dll
+C:\Users\windows\Documents\Ongoing Projects - Papers and Files\[1] Attendance Monitoring Using Fingerprint Authentication\Webert\Webert\bin\Debug\MetroFramework.dll
+C:\Users\windows\Documents\Ongoing Projects - Papers and Files\[1] Attendance Monitoring Using Fingerprint Authentication\Webert\Webert\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\windows\Documents\Ongoing Projects - Papers and Files\[1] Attendance Monitoring Using Fingerprint Authentication\Webert\Webert\bin\Debug\MySql.Data.dll
+C:\Users\windows\Documents\Ongoing Projects - Papers and Files\[1] Attendance Monitoring Using Fingerprint Authentication\Webert\Webert\bin\Debug\Google.Protobuf.dll
+C:\Users\windows\Documents\Ongoing Projects - Papers and Files\[1] Attendance Monitoring Using Fingerprint Authentication\Webert\Webert\bin\Debug\MySql.Data.xml
+C:\Users\windows\Documents\Ongoing Projects - Papers and Files\[1] Attendance Monitoring Using Fingerprint Authentication\Webert\Webert\obj\Debug\Webert.csprojAssemblyReference.cache
+C:\Users\windows\Documents\Ongoing Projects - Papers and Files\[1] Attendance Monitoring Using Fingerprint Authentication\Webert\Webert\obj\Debug\Webert.csproj.ResolveComReference.cache
+C:\Users\windows\Documents\Ongoing Projects - Papers and Files\[1] Attendance Monitoring Using Fingerprint Authentication\Webert\Webert\obj\Debug\Webert.AdminForm.resources
+C:\Users\windows\Documents\Ongoing Projects - Papers and Files\[1] Attendance Monitoring Using Fingerprint Authentication\Webert\Webert\obj\Debug\Webert.LoginForm.resources
+C:\Users\windows\Documents\Ongoing Projects - Papers and Files\[1] Attendance Monitoring Using Fingerprint Authentication\Webert\Webert\obj\Debug\Webert.Properties.Resources.resources
+C:\Users\windows\Documents\Ongoing Projects - Papers and Files\[1] Attendance Monitoring Using Fingerprint Authentication\Webert\Webert\obj\Debug\Webert.csproj.GenerateResource.cache
+C:\Users\windows\Documents\Ongoing Projects - Papers and Files\[1] Attendance Monitoring Using Fingerprint Authentication\Webert\Webert\obj\Debug\Webert.csproj.CoreCompileInputs.cache
+C:\Users\windows\Documents\Ongoing Projects - Papers and Files\[1] Attendance Monitoring Using Fingerprint Authentication\Webert\Webert\obj\Debug\Webert.csproj.CopyComplete
+C:\Users\windows\Documents\Ongoing Projects - Papers and Files\[1] Attendance Monitoring Using Fingerprint Authentication\Webert\Webert\obj\Debug\Webert.exe
+C:\Users\windows\Documents\Ongoing Projects - Papers and Files\[1] Attendance Monitoring Using Fingerprint Authentication\Webert\Webert\obj\Debug\Webert.pdb
+C:\Users\Demus\Desktop\[1] Design\Webert\Webert\bin\Debug\Webert.exe.config
+C:\Users\Demus\Desktop\[1] Design\Webert\Webert\bin\Debug\Webert.exe
+C:\Users\Demus\Desktop\[1] Design\Webert\Webert\bin\Debug\Webert.pdb
+C:\Users\Demus\Desktop\[1] Design\Webert\Webert\bin\Debug\MetroFramework.Design.dll
+C:\Users\Demus\Desktop\[1] Design\Webert\Webert\bin\Debug\MetroFramework.dll
+C:\Users\Demus\Desktop\[1] Design\Webert\Webert\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Demus\Desktop\[1] Design\Webert\Webert\bin\Debug\Google.Protobuf.dll
+C:\Users\Demus\Desktop\[1] Design\Webert\Webert\bin\Debug\MySql.Data.xml
+C:\Users\Demus\Desktop\[1] Design\Webert\Webert\obj\Debug\Webert.csprojAssemblyReference.cache
+C:\Users\Demus\Desktop\[1] Design\Webert\Webert\obj\Debug\Webert.csproj.ResolveComReference.cache
+C:\Users\Demus\Desktop\[1] Design\Webert\Webert\obj\Debug\Webert.AdminForm.resources
+C:\Users\Demus\Desktop\[1] Design\Webert\Webert\obj\Debug\Webert.LoginForm.resources
+C:\Users\Demus\Desktop\[1] Design\Webert\Webert\obj\Debug\Webert.Properties.Resources.resources
+C:\Users\Demus\Desktop\[1] Design\Webert\Webert\obj\Debug\Webert.csproj.GenerateResource.cache
+C:\Users\Demus\Desktop\[1] Design\Webert\Webert\obj\Debug\Webert.csproj.CoreCompileInputs.cache
+C:\Users\Demus\Desktop\[1] Design\Webert\Webert\obj\Debug\Webert.csproj.CopyComplete
+C:\Users\Demus\Desktop\[1] Design\Webert\Webert\obj\Debug\Webert.exe
+C:\Users\Demus\Desktop\[1] Design\Webert\Webert\obj\Debug\Webert.pdb
+C:\Users\windows\Documents\Ongoing Projects - Papers and Files\[1] Design\Webert\Webert\bin\Debug\Webert.exe.config
+C:\Users\windows\Documents\Ongoing Projects - Papers and Files\[1] Design\Webert\Webert\bin\Debug\Webert.exe
+C:\Users\windows\Documents\Ongoing Projects - Papers and Files\[1] Design\Webert\Webert\bin\Debug\Webert.pdb
+C:\Users\windows\Documents\Ongoing Projects - Papers and Files\[1] Design\Webert\Webert\bin\Debug\MetroFramework.Design.dll
+C:\Users\windows\Documents\Ongoing Projects - Papers and Files\[1] Design\Webert\Webert\bin\Debug\MetroFramework.dll
+C:\Users\windows\Documents\Ongoing Projects - Papers and Files\[1] Design\Webert\Webert\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\windows\Documents\Ongoing Projects - Papers and Files\[1] Design\Webert\Webert\bin\Debug\MySql.Data.dll
+C:\Users\windows\Documents\Ongoing Projects - Papers and Files\[1] Design\Webert\Webert\bin\Debug\Google.Protobuf.dll
+C:\Users\windows\Documents\Ongoing Projects - Papers and Files\[1] Design\Webert\Webert\bin\Debug\MySql.Data.xml
+C:\Users\windows\Documents\Ongoing Projects - Papers and Files\[1] Design\Webert\Webert\obj\Debug\Webert.csproj.ResolveComReference.cache
+C:\Users\windows\Documents\Ongoing Projects - Papers and Files\[1] Design\Webert\Webert\obj\Debug\Webert.AdminForm.resources
+C:\Users\windows\Documents\Ongoing Projects - Papers and Files\[1] Design\Webert\Webert\obj\Debug\Webert.LoginForm.resources
+C:\Users\windows\Documents\Ongoing Projects - Papers and Files\[1] Design\Webert\Webert\obj\Debug\Webert.Properties.Resources.resources
+C:\Users\windows\Documents\Ongoing Projects - Papers and Files\[1] Design\Webert\Webert\obj\Debug\Webert.csproj.GenerateResource.cache
+C:\Users\windows\Documents\Ongoing Projects - Papers and Files\[1] Design\Webert\Webert\obj\Debug\Webert.csproj.CoreCompileInputs.cache
+C:\Users\windows\Documents\Ongoing Projects - Papers and Files\[1] Design\Webert\Webert\obj\Debug\Webert.csproj.CopyComplete
+C:\Users\windows\Documents\Ongoing Projects - Papers and Files\[1] Design\Webert\Webert\obj\Debug\Webert.exe
+C:\Users\windows\Documents\Ongoing Projects - Papers and Files\[1] Design\Webert\Webert\obj\Debug\Webert.pdb
+C:\Users\windows\Documents\Ongoing Projects - Papers and Files\[1] Design\Webert\Webert\obj\Debug\Webert.csprojAssemblyReference.cache
+C:\Users\Demus\Desktop\[1] Design Finger Print (New)\Webert\Webert\bin\Debug\Webert.exe.config
+C:\Users\Demus\Desktop\[1] Design Finger Print (New)\Webert\Webert\bin\Debug\Webert.exe
+C:\Users\Demus\Desktop\[1] Design Finger Print (New)\Webert\Webert\bin\Debug\Webert.pdb
+C:\Users\Demus\Desktop\[1] Design Finger Print (New)\Webert\Webert\bin\Debug\MetroFramework.Design.dll
+C:\Users\Demus\Desktop\[1] Design Finger Print (New)\Webert\Webert\bin\Debug\MetroFramework.dll
+C:\Users\Demus\Desktop\[1] Design Finger Print (New)\Webert\Webert\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Demus\Desktop\[1] Design Finger Print (New)\Webert\Webert\bin\Debug\Google.Protobuf.dll
+C:\Users\Demus\Desktop\[1] Design Finger Print (New)\Webert\Webert\bin\Debug\MySql.Data.xml
+C:\Users\Demus\Desktop\[1] Design Finger Print (New)\Webert\Webert\obj\Debug\Webert.csprojAssemblyReference.cache
+C:\Users\Demus\Desktop\[1] Design Finger Print (New)\Webert\Webert\obj\Debug\Webert.csproj.ResolveComReference.cache
+C:\Users\Demus\Desktop\[1] Design Finger Print (New)\Webert\Webert\obj\Debug\Webert.AdminForm.resources
+C:\Users\Demus\Desktop\[1] Design Finger Print (New)\Webert\Webert\obj\Debug\Webert.LoginForm.resources
+C:\Users\Demus\Desktop\[1] Design Finger Print (New)\Webert\Webert\obj\Debug\Webert.Properties.Resources.resources
+C:\Users\Demus\Desktop\[1] Design Finger Print (New)\Webert\Webert\obj\Debug\Webert.csproj.GenerateResource.cache
+C:\Users\Demus\Desktop\[1] Design Finger Print (New)\Webert\Webert\obj\Debug\Webert.csproj.CoreCompileInputs.cache
+C:\Users\Demus\Desktop\[1] Design Finger Print (New)\Webert\Webert\obj\Debug\Webert.csproj.CopyComplete
+C:\Users\Demus\Desktop\[1] Design Finger Print (New)\Webert\Webert\obj\Debug\Webert.exe
+C:\Users\Demus\Desktop\[1] Design Finger Print (New)\Webert\Webert\obj\Debug\Webert.pdb
+C:\Users\windows\Desktop\[1] Design Finger Print (Minor, Revised)\Webert\Webert\obj\Debug\Webert.csprojAssemblyReference.cache
+C:\Users\windows\Desktop\[1] Design Finger Print (Minor, Revised)\Webert\Webert\obj\Debug\Webert.csproj.ResolveComReference.cache
+C:\Users\windows\Desktop\[1] Design Finger Print (Minor, Revised)\Webert\Webert\obj\Debug\Webert.AdminForm.resources
+C:\Users\windows\Desktop\[1] Design Finger Print (Minor, Revised)\Webert\Webert\obj\Debug\Webert.LoginForm.resources
+C:\Users\windows\Desktop\[1] Design Finger Print (Minor, Revised)\Webert\Webert\obj\Debug\Webert.Properties.Resources.resources
+C:\Users\windows\Desktop\[1] Design Finger Print (Minor, Revised)\Webert\Webert\obj\Debug\Webert.csproj.GenerateResource.cache
+C:\Users\windows\Desktop\[1] Design Finger Print (Minor, Revised)\Webert\Webert\obj\Debug\Webert.csproj.CoreCompileInputs.cache
+C:\Users\windows\Desktop\[1] Design Finger Print (Minor, Revised)\Webert\Webert\obj\Debug\Webert.exe
+C:\Users\windows\Desktop\[1] Design Finger Print (Minor, Revised)\Webert\Webert\obj\Debug\Webert.pdb
+C:\Users\windows\Desktop\[1] Design Finger Print (Minor, Revised)\Webert\Webert\bin\Debug\Webert.exe.config
+C:\Users\windows\Desktop\[1] Design Finger Print (Minor, Revised)\Webert\Webert\bin\Debug\Webert.exe
+C:\Users\windows\Desktop\[1] Design Finger Print (Minor, Revised)\Webert\Webert\bin\Debug\Webert.pdb
+C:\Users\windows\Desktop\[1] Design Finger Print (Minor, Revised)\Webert\Webert\bin\Debug\MetroFramework.Design.dll
+C:\Users\windows\Desktop\[1] Design Finger Print (Minor, Revised)\Webert\Webert\bin\Debug\MetroFramework.dll
+C:\Users\windows\Desktop\[1] Design Finger Print (Minor, Revised)\Webert\Webert\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\windows\Desktop\[1] Design Finger Print (Minor, Revised)\Webert\Webert\bin\Debug\MySql.Data.dll
+C:\Users\windows\Desktop\[1] Design Finger Print (Minor, Revised)\Webert\Webert\bin\Debug\Google.Protobuf.dll
+C:\Users\windows\Desktop\[1] Design Finger Print (Minor, Revised)\Webert\Webert\bin\Debug\MySql.Data.xml
+C:\Users\windows\Desktop\[1] Design Finger Print (Minor, Revised)\Webert\Webert\obj\Debug\Webert.csproj.CopyComplete
+C:\Users\windows\Documents\Ongoing Projects - Papers and Files\[1] Design Finger Print\Webert\Webert\bin\Debug\Webert.exe.config
+C:\Users\windows\Documents\Ongoing Projects - Papers and Files\[1] Design Finger Print\Webert\Webert\bin\Debug\Webert.exe
+C:\Users\windows\Documents\Ongoing Projects - Papers and Files\[1] Design Finger Print\Webert\Webert\bin\Debug\Webert.pdb
+C:\Users\windows\Documents\Ongoing Projects - Papers and Files\[1] Design Finger Print\Webert\Webert\bin\Debug\MetroFramework.Design.dll
+C:\Users\windows\Documents\Ongoing Projects - Papers and Files\[1] Design Finger Print\Webert\Webert\bin\Debug\MetroFramework.dll
+C:\Users\windows\Documents\Ongoing Projects - Papers and Files\[1] Design Finger Print\Webert\Webert\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\windows\Documents\Ongoing Projects - Papers and Files\[1] Design Finger Print\Webert\Webert\bin\Debug\MySql.Data.dll
+C:\Users\windows\Documents\Ongoing Projects - Papers and Files\[1] Design Finger Print\Webert\Webert\bin\Debug\Google.Protobuf.dll
+C:\Users\windows\Documents\Ongoing Projects - Papers and Files\[1] Design Finger Print\Webert\Webert\bin\Debug\MySql.Data.xml
+C:\Users\windows\Documents\Ongoing Projects - Papers and Files\[1] Design Finger Print\Webert\Webert\obj\Debug\Webert.csproj.ResolveComReference.cache
+C:\Users\windows\Documents\Ongoing Projects - Papers and Files\[1] Design Finger Print\Webert\Webert\obj\Debug\Webert.AdminForm.resources
+C:\Users\windows\Documents\Ongoing Projects - Papers and Files\[1] Design Finger Print\Webert\Webert\obj\Debug\Webert.LoginForm.resources
+C:\Users\windows\Documents\Ongoing Projects - Papers and Files\[1] Design Finger Print\Webert\Webert\obj\Debug\Webert.Properties.Resources.resources
+C:\Users\windows\Documents\Ongoing Projects - Papers and Files\[1] Design Finger Print\Webert\Webert\obj\Debug\Webert.csproj.GenerateResource.cache
+C:\Users\windows\Documents\Ongoing Projects - Papers and Files\[1] Design Finger Print\Webert\Webert\obj\Debug\Webert.csproj.CoreCompileInputs.cache
+C:\Users\windows\Documents\Ongoing Projects - Papers and Files\[1] Design Finger Print\Webert\Webert\obj\Debug\Webert.csproj.CopyComplete
+C:\Users\windows\Documents\Ongoing Projects - Papers and Files\[1] Design Finger Print\Webert\Webert\obj\Debug\Webert.exe
+C:\Users\windows\Documents\Ongoing Projects - Papers and Files\[1] Design Finger Print\Webert\Webert\obj\Debug\Webert.pdb
+C:\Users\windows\Documents\Ongoing Projects - Papers and Files\[1] Design Finger Print\Webert\Webert\obj\Debug\Webert.csprojAssemblyReference.cache
+D:\Documents\Clients\Finished\DESIGN_CPE_FINGERATT\Programs\Webert - Before Defense\Webert\Webert\bin\Debug\Webert.exe.config
+D:\Documents\Clients\Finished\DESIGN_CPE_FINGERATT\Programs\Webert - Before Defense\Webert\Webert\bin\Debug\Webert.exe
+D:\Documents\Clients\Finished\DESIGN_CPE_FINGERATT\Programs\Webert - Before Defense\Webert\Webert\bin\Debug\Webert.pdb
+D:\Documents\Clients\Finished\DESIGN_CPE_FINGERATT\Programs\Webert - Before Defense\Webert\Webert\bin\Debug\MetroFramework.Design.dll
+D:\Documents\Clients\Finished\DESIGN_CPE_FINGERATT\Programs\Webert - Before Defense\Webert\Webert\bin\Debug\MetroFramework.dll
+D:\Documents\Clients\Finished\DESIGN_CPE_FINGERATT\Programs\Webert - Before Defense\Webert\Webert\bin\Debug\MetroFramework.Fonts.dll
+D:\Documents\Clients\Finished\DESIGN_CPE_FINGERATT\Programs\Webert - Before Defense\Webert\Webert\bin\Debug\Google.Protobuf.dll
+D:\Documents\Clients\Finished\DESIGN_CPE_FINGERATT\Programs\Webert - Before Defense\Webert\Webert\bin\Debug\MySql.Data.xml
+D:\Documents\Clients\Finished\DESIGN_CPE_FINGERATT\Programs\Webert - Before Defense\Webert\Webert\obj\Debug\Webert.csprojAssemblyReference.cache
+D:\Documents\Clients\Finished\DESIGN_CPE_FINGERATT\Programs\Webert - Before Defense\Webert\Webert\obj\Debug\Webert.csproj.ResolveComReference.cache
+D:\Documents\Clients\Finished\DESIGN_CPE_FINGERATT\Programs\Webert - Before Defense\Webert\Webert\obj\Debug\Webert.AdminForm.resources
+D:\Documents\Clients\Finished\DESIGN_CPE_FINGERATT\Programs\Webert - Before Defense\Webert\Webert\obj\Debug\Webert.LoginForm.resources
+D:\Documents\Clients\Finished\DESIGN_CPE_FINGERATT\Programs\Webert - Before Defense\Webert\Webert\obj\Debug\Webert.Properties.Resources.resources
+D:\Documents\Clients\Finished\DESIGN_CPE_FINGERATT\Programs\Webert - Before Defense\Webert\Webert\obj\Debug\Webert.csproj.GenerateResource.cache
+D:\Documents\Clients\Finished\DESIGN_CPE_FINGERATT\Programs\Webert - Before Defense\Webert\Webert\obj\Debug\Webert.csproj.CoreCompileInputs.cache
+D:\Documents\Clients\Finished\DESIGN_CPE_FINGERATT\Programs\Webert - Before Defense\Webert\Webert\obj\Debug\Webert.csproj.CopyComplete
+D:\Documents\Clients\Finished\DESIGN_CPE_FINGERATT\Programs\Webert - Before Defense\Webert\Webert\obj\Debug\Webert.exe
+D:\Documents\Clients\Finished\DESIGN_CPE_FINGERATT\Programs\Webert - Before Defense\Webert\Webert\obj\Debug\Webert.pdb

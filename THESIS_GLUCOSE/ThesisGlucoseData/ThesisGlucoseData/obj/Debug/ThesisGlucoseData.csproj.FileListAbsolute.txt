@@ -1,0 +1,10 @@
+D:\Documents\source\repos\ThesisGlucoseData\ThesisGlucoseData\bin\Debug\ThesisGlucoseData.exe.config
+D:\Documents\source\repos\ThesisGlucoseData\ThesisGlucoseData\bin\Debug\ThesisGlucoseData.exe
+D:\Documents\source\repos\ThesisGlucoseData\ThesisGlucoseData\bin\Debug\ThesisGlucoseData.pdb
+D:\Documents\source\repos\ThesisGlucoseData\ThesisGlucoseData\obj\Debug\ThesisGlucoseData.csprojAssemblyReference.cache
+D:\Documents\source\repos\ThesisGlucoseData\ThesisGlucoseData\obj\Debug\ThesisGlucoseData.Form1.resources
+D:\Documents\source\repos\ThesisGlucoseData\ThesisGlucoseData\obj\Debug\ThesisGlucoseData.Properties.Resources.resources
+D:\Documents\source\repos\ThesisGlucoseData\ThesisGlucoseData\obj\Debug\ThesisGlucoseData.csproj.GenerateResource.cache
+D:\Documents\source\repos\ThesisGlucoseData\ThesisGlucoseData\obj\Debug\ThesisGlucoseData.csproj.CoreCompileInputs.cache
+D:\Documents\source\repos\ThesisGlucoseData\ThesisGlucoseData\obj\Debug\ThesisGlucoseData.exe
+D:\Documents\source\repos\ThesisGlucoseData\ThesisGlucoseData\obj\Debug\ThesisGlucoseData.pdb

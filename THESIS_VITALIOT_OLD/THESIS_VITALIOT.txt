@@ -1,0 +1,11 @@
+Install Arduino driver.
+
+https://www.ftdichip.com/Drivers/VCP.htm
+
+Connect heart rate sensor (ECG)
+https://wiki.dfrobot.com/Heart_Rate_Monitor_Sensor_SKU__SEN0213
+https://github.com/DFRobot/DFRobot_Heartrate
+https://github.com/lfwag/HeartSpeed
+
+Connect body temp sensor.
+https://github.com/Protocentral/Protocentral_MAX30205

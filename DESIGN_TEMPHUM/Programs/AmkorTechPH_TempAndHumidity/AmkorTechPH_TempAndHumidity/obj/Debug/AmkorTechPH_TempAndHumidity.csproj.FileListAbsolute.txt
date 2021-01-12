@@ -1,0 +1,54 @@
+C:\Users\windows\Documents\Visual Studio 2017\Projects\AmkorTechPH_TempAndHumidity\AmkorTechPH_TempAndHumidity\bin\Debug\AmkorTechPH_TempAndHumidity.exe
+C:\Users\windows\Documents\Visual Studio 2017\Projects\AmkorTechPH_TempAndHumidity\AmkorTechPH_TempAndHumidity\bin\Debug\AmkorTechPH_TempAndHumidity.pdb
+C:\Users\windows\Documents\Visual Studio 2017\Projects\AmkorTechPH_TempAndHumidity\AmkorTechPH_TempAndHumidity\bin\Debug\MetroFramework.Design.dll
+C:\Users\windows\Documents\Visual Studio 2017\Projects\AmkorTechPH_TempAndHumidity\AmkorTechPH_TempAndHumidity\bin\Debug\MetroFramework.dll
+C:\Users\windows\Documents\Visual Studio 2017\Projects\AmkorTechPH_TempAndHumidity\AmkorTechPH_TempAndHumidity\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\windows\Documents\Visual Studio 2017\Projects\AmkorTechPH_TempAndHumidity\AmkorTechPH_TempAndHumidity\obj\Debug\AmkorTechPH_TempAndHumidity.csprojAssemblyReference.cache
+C:\Users\windows\Documents\Visual Studio 2017\Projects\AmkorTechPH_TempAndHumidity\AmkorTechPH_TempAndHumidity\obj\Debug\AmkorTechPH_TempAndHumidity.Properties.Resources.resources
+C:\Users\windows\Documents\Visual Studio 2017\Projects\AmkorTechPH_TempAndHumidity\AmkorTechPH_TempAndHumidity\obj\Debug\AmkorTechPH_TempAndHumidity.csproj.GenerateResource.cache
+C:\Users\windows\Documents\Visual Studio 2017\Projects\AmkorTechPH_TempAndHumidity\AmkorTechPH_TempAndHumidity\obj\Debug\AmkorTechPH_TempAndHumidity.csproj.CoreCompileInputs.cache
+C:\Users\windows\Documents\Visual Studio 2017\Projects\AmkorTechPH_TempAndHumidity\AmkorTechPH_TempAndHumidity\obj\Debug\AmkorTechPH_TempAndHumidity.csproj.CopyComplete
+C:\Users\windows\Documents\Visual Studio 2017\Projects\AmkorTechPH_TempAndHumidity\AmkorTechPH_TempAndHumidity\obj\Debug\AmkorTechPH_TempAndHumidity.exe
+C:\Users\windows\Documents\Visual Studio 2017\Projects\AmkorTechPH_TempAndHumidity\AmkorTechPH_TempAndHumidity\obj\Debug\AmkorTechPH_TempAndHumidity.pdb
+C:\Users\windows\Documents\Visual Studio 2017\Projects\AmkorTechPH_TempAndHumidity\AmkorTechPH_TempAndHumidity\obj\Debug\AmkorTechPH_TempAndHumidity.MainForm.resources
+C:\Users\windows\Documents\Visual Studio 2017\Projects\AmkorTechPH_TempAndHumidity\AmkorTechPH_TempAndHumidity\bin\Debug\AmkorTechPH_TempAndHumidity.exe.config
+C:\Users\windows\Documents\Visual Studio 2017\Projects\AmkorTechPH_TempAndHumidity\AmkorTechPH_TempAndHumidity\bin\Debug\System.Data.SQLite.dll
+C:\Users\windows\Documents\Visual Studio 2017\Projects\AmkorTechPH_TempAndHumidity\AmkorTechPH_TempAndHumidity\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\windows\Documents\Visual Studio 2017\Projects\AmkorTechPH_TempAndHumidity\AmkorTechPH_TempAndHumidity\bin\Debug\System.Data.SQLite.xml
+C:\Users\windows\Documents\Visual Studio 2017\Projects\AmkorTechPH_TempAndHumidity\AmkorTechPH_TempAndHumidity\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\windows\Documents\Clients\Ongoing\2Q1819_01 (Relative Humidity) - Design_CpE\AmkorTechPH_TempAndHumidity\AmkorTechPH_TempAndHumidity\bin\Debug\AmkorTechPH_TempAndHumidity.exe.config
+C:\Users\windows\Documents\Clients\Ongoing\2Q1819_01 (Relative Humidity) - Design_CpE\AmkorTechPH_TempAndHumidity\AmkorTechPH_TempAndHumidity\bin\Debug\AmkorTechPH_TempAndHumidity.exe
+C:\Users\windows\Documents\Clients\Ongoing\2Q1819_01 (Relative Humidity) - Design_CpE\AmkorTechPH_TempAndHumidity\AmkorTechPH_TempAndHumidity\bin\Debug\AmkorTechPH_TempAndHumidity.pdb
+C:\Users\windows\Documents\Clients\Ongoing\2Q1819_01 (Relative Humidity) - Design_CpE\AmkorTechPH_TempAndHumidity\AmkorTechPH_TempAndHumidity\bin\Debug\MetroFramework.Design.dll
+C:\Users\windows\Documents\Clients\Ongoing\2Q1819_01 (Relative Humidity) - Design_CpE\AmkorTechPH_TempAndHumidity\AmkorTechPH_TempAndHumidity\bin\Debug\MetroFramework.dll
+C:\Users\windows\Documents\Clients\Ongoing\2Q1819_01 (Relative Humidity) - Design_CpE\AmkorTechPH_TempAndHumidity\AmkorTechPH_TempAndHumidity\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\windows\Documents\Clients\Ongoing\2Q1819_01 (Relative Humidity) - Design_CpE\AmkorTechPH_TempAndHumidity\AmkorTechPH_TempAndHumidity\bin\Debug\System.Data.SQLite.dll
+C:\Users\windows\Documents\Clients\Ongoing\2Q1819_01 (Relative Humidity) - Design_CpE\AmkorTechPH_TempAndHumidity\AmkorTechPH_TempAndHumidity\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\windows\Documents\Clients\Ongoing\2Q1819_01 (Relative Humidity) - Design_CpE\AmkorTechPH_TempAndHumidity\AmkorTechPH_TempAndHumidity\bin\Debug\System.Data.SQLite.xml
+C:\Users\windows\Documents\Clients\Ongoing\2Q1819_01 (Relative Humidity) - Design_CpE\AmkorTechPH_TempAndHumidity\AmkorTechPH_TempAndHumidity\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\windows\Documents\Clients\Ongoing\2Q1819_01 (Relative Humidity) - Design_CpE\AmkorTechPH_TempAndHumidity\AmkorTechPH_TempAndHumidity\obj\Debug\AmkorTechPH_TempAndHumidity.csprojAssemblyReference.cache
+C:\Users\windows\Documents\Clients\Ongoing\2Q1819_01 (Relative Humidity) - Design_CpE\AmkorTechPH_TempAndHumidity\AmkorTechPH_TempAndHumidity\obj\Debug\AmkorTechPH_TempAndHumidity.MainForm.resources
+C:\Users\windows\Documents\Clients\Ongoing\2Q1819_01 (Relative Humidity) - Design_CpE\AmkorTechPH_TempAndHumidity\AmkorTechPH_TempAndHumidity\obj\Debug\AmkorTechPH_TempAndHumidity.Properties.Resources.resources
+C:\Users\windows\Documents\Clients\Ongoing\2Q1819_01 (Relative Humidity) - Design_CpE\AmkorTechPH_TempAndHumidity\AmkorTechPH_TempAndHumidity\obj\Debug\AmkorTechPH_TempAndHumidity.csproj.GenerateResource.cache
+C:\Users\windows\Documents\Clients\Ongoing\2Q1819_01 (Relative Humidity) - Design_CpE\AmkorTechPH_TempAndHumidity\AmkorTechPH_TempAndHumidity\obj\Debug\AmkorTechPH_TempAndHumidity.csproj.CoreCompileInputs.cache
+C:\Users\windows\Documents\Clients\Ongoing\2Q1819_01 (Relative Humidity) - Design_CpE\AmkorTechPH_TempAndHumidity\AmkorTechPH_TempAndHumidity\obj\Debug\AmkorTechPH_TempAndHumidity.csproj.CopyComplete
+C:\Users\windows\Documents\Clients\Ongoing\2Q1819_01 (Relative Humidity) - Design_CpE\AmkorTechPH_TempAndHumidity\AmkorTechPH_TempAndHumidity\obj\Debug\AmkorTechPH_TempAndHumidity.exe
+C:\Users\windows\Documents\Clients\Ongoing\2Q1819_01 (Relative Humidity) - Design_CpE\AmkorTechPH_TempAndHumidity\AmkorTechPH_TempAndHumidity\obj\Debug\AmkorTechPH_TempAndHumidity.pdb
+D:\Documents\Clients\Finished\DESIGN_TEMPHUM\Programs\AmkorTechPH_TempAndHumidity\AmkorTechPH_TempAndHumidity\bin\Debug\AmkorTechPH_TempAndHumidity.exe.config
+D:\Documents\Clients\Finished\DESIGN_TEMPHUM\Programs\AmkorTechPH_TempAndHumidity\AmkorTechPH_TempAndHumidity\bin\Debug\AmkorTechPH_TempAndHumidity.exe
+D:\Documents\Clients\Finished\DESIGN_TEMPHUM\Programs\AmkorTechPH_TempAndHumidity\AmkorTechPH_TempAndHumidity\bin\Debug\AmkorTechPH_TempAndHumidity.pdb
+D:\Documents\Clients\Finished\DESIGN_TEMPHUM\Programs\AmkorTechPH_TempAndHumidity\AmkorTechPH_TempAndHumidity\bin\Debug\MetroFramework.Design.dll
+D:\Documents\Clients\Finished\DESIGN_TEMPHUM\Programs\AmkorTechPH_TempAndHumidity\AmkorTechPH_TempAndHumidity\bin\Debug\MetroFramework.dll
+D:\Documents\Clients\Finished\DESIGN_TEMPHUM\Programs\AmkorTechPH_TempAndHumidity\AmkorTechPH_TempAndHumidity\bin\Debug\MetroFramework.Fonts.dll
+D:\Documents\Clients\Finished\DESIGN_TEMPHUM\Programs\AmkorTechPH_TempAndHumidity\AmkorTechPH_TempAndHumidity\bin\Debug\System.Data.SQLite.dll
+D:\Documents\Clients\Finished\DESIGN_TEMPHUM\Programs\AmkorTechPH_TempAndHumidity\AmkorTechPH_TempAndHumidity\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Documents\Clients\Finished\DESIGN_TEMPHUM\Programs\AmkorTechPH_TempAndHumidity\AmkorTechPH_TempAndHumidity\bin\Debug\System.Data.SQLite.xml
+D:\Documents\Clients\Finished\DESIGN_TEMPHUM\Programs\AmkorTechPH_TempAndHumidity\AmkorTechPH_TempAndHumidity\bin\Debug\System.Data.SQLite.dll.config
+D:\Documents\Clients\Finished\DESIGN_TEMPHUM\Programs\AmkorTechPH_TempAndHumidity\AmkorTechPH_TempAndHumidity\obj\Debug\AmkorTechPH_TempAndHumidity.csprojAssemblyReference.cache
+D:\Documents\Clients\Finished\DESIGN_TEMPHUM\Programs\AmkorTechPH_TempAndHumidity\AmkorTechPH_TempAndHumidity\obj\Debug\AmkorTechPH_TempAndHumidity.MainForm.resources
+D:\Documents\Clients\Finished\DESIGN_TEMPHUM\Programs\AmkorTechPH_TempAndHumidity\AmkorTechPH_TempAndHumidity\obj\Debug\AmkorTechPH_TempAndHumidity.Properties.Resources.resources
+D:\Documents\Clients\Finished\DESIGN_TEMPHUM\Programs\AmkorTechPH_TempAndHumidity\AmkorTechPH_TempAndHumidity\obj\Debug\AmkorTechPH_TempAndHumidity.csproj.GenerateResource.cache
+D:\Documents\Clients\Finished\DESIGN_TEMPHUM\Programs\AmkorTechPH_TempAndHumidity\AmkorTechPH_TempAndHumidity\obj\Debug\AmkorTechPH_TempAndHumidity.csproj.CoreCompileInputs.cache
+D:\Documents\Clients\Finished\DESIGN_TEMPHUM\Programs\AmkorTechPH_TempAndHumidity\AmkorTechPH_TempAndHumidity\obj\Debug\AmkorTechPH_TempAndHumidity.csproj.CopyComplete
+D:\Documents\Clients\Finished\DESIGN_TEMPHUM\Programs\AmkorTechPH_TempAndHumidity\AmkorTechPH_TempAndHumidity\obj\Debug\AmkorTechPH_TempAndHumidity.exe
+D:\Documents\Clients\Finished\DESIGN_TEMPHUM\Programs\AmkorTechPH_TempAndHumidity\AmkorTechPH_TempAndHumidity\obj\Debug\AmkorTechPH_TempAndHumidity.pdb

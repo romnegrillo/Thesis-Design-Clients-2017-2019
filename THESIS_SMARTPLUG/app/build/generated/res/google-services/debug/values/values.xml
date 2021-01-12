@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">406194003414-ejaqki7ns04lu7h0u3n9ujcsjn1ps1li.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://thesissmartplug.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">406194003414</string>
+    <string name="google_api_key" translatable="false">AIzaSyDukPcVdM90EyWqdvLUsdL3P8lxZXzGSdE</string>
+    <string name="google_app_id" translatable="false">1:406194003414:android:78d49e488d852ec4d69877</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDukPcVdM90EyWqdvLUsdL3P8lxZXzGSdE</string>
+    <string name="google_storage_bucket" translatable="false">thesissmartplug.appspot.com</string>
+    <string name="project_id" translatable="false">thesissmartplug</string>
+</resources>

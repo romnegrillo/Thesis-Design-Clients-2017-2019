@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+	<meta charset="utf-8">
+	<title></title>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+	<style>
+		body {
+		          font-family: "Lato", sans-serif;
+		          background-color: white;
+
+		      }
+
+
+		      .main-head{
+		          height: 150px;
+		          background: #FFF;
+
+		      }
+
+		      .sidenav {
+		          height: 100%;
+		          background-color: #4aff7d;;
+		          overflow-x: hidden;
+		          padding-top: 20px;
+		          border-right: 1px solid blue;
+		      }
+
+
+		      .main {
+		          padding: 0px 10px;
+		      }
+
+		      @media screen and (max-height: 450px) {
+		          .sidenav {padding-top: 15px;}
+		      }
+
+		      @media screen and (max-width: 450px) {
+		          .login-form{
+		              margin-top: 10%;
+		          }
+
+		          .register-form{
+		              margin-top: 10%;
+		          }
+		      }
+
+		      @media screen and (min-width: 768px){
+		          .main{
+		              margin-left: 40%;
+		          }
+
+		          .sidenav{
+		              width: 40%;
+		              position: fixed;
+		              z-index: 1;
+		              top: 0;
+		              left: 0;
+		          }
+
+		          .login-form{
+		              margin-top: 80%;
+		          }
+
+		          .register-form{
+		              margin-top: 20%;
+		          }
+		      }
+
+
+		      .login-main-text{
+		          margin-top: 20%;
+		          padding: 60px;
+		          color: #fff;
+		      }
+
+		      .login-main-text h2{
+		          font-weight: 300;
+		      }
+
+		      .btn-black{
+		          background-color: #000 !important;
+		          color: #fff;
+		      }
+	</style>
+</head>
+
+<body>
+	<div class="sidenav">
+		<div class="login-main-text">
+			<h2 style="color:#0077FF; font-weight:bold">Vital Signs Monitoring</h2>
+			<p style="color:#0077FF;">Forgot Password</p> <i class="fa fa-plus-square" style="font-size:200px;color:#0077FF"></i>
+		</div>
+	</div>
+	<div class="main">
+		<div class="col-md-6 col-sm-12">
+			<div class="login-form">{% if messages %}
+				<div class="alert alert-info" role="alert">{%for message in messages%}
+					<p><strong>{{ message }}</strong>
+					</p>
+				</div>{%endfor%} {% endif %}
+				<form method="post" action="">{% csrf_token %}
+					<div class="form-group">
+						<br>
+						<label>Email</label>
+						<input type="email" class="form-control" name="email" placeholder="Email" required>
+					</div>
+
+					<button type="submit" name="send_email_button" value="send_email_button" class="btn btn-primary">Send Email</button>
+					</button>
+				</form>
+			</div>
+		</div>
+	</div>
+	<br>
+	<br>
+	<script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+	<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+</body>
+
+</html>

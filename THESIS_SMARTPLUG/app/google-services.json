@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "406194003414",
+    "firebase_url": "https://thesissmartplug.firebaseio.com",
+    "project_id": "thesissmartplug",
+    "storage_bucket": "thesissmartplug.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406194003414:android:78d49e488d852ec4d69877",
+        "android_client_info": {
+          "package_name": "com.example.smartplug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406194003414-ras92803fuvg7fj2aeugc42lrlqkseb5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smartplug",
+            "certificate_hash": "a00cea91debd08be1a4bc728349b9094f43bd0b7"
+          }
+        },
+        {
+          "client_id": "406194003414-ejaqki7ns04lu7h0u3n9ujcsjn1ps1li.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDukPcVdM90EyWqdvLUsdL3P8lxZXzGSdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "406194003414-ejaqki7ns04lu7h0u3n9ujcsjn1ps1li.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

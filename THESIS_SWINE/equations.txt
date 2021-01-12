@@ -1,0 +1,8 @@
+Side View:
+y = -26.3672 + 0.0002*x
+
+Top View
+y = -12.4166 + 0.0002*x
+
+where y is the estimated weight and x is the features from image processing.
+x = (area_covered_by_swine^2 + maxima^2 + minima^2)

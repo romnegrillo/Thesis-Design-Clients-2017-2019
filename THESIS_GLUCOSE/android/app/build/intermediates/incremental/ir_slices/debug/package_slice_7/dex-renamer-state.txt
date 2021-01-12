@@ -1,0 +1,4 @@
+#Mon Jul 22 01:31:41 SGT 2019
+base.0=D\:\\Documents\\AndroidStudioProjects\\THESIS_GLUCOSE\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\7
+path.0=classes.dex
+renamed.0=classes.dex

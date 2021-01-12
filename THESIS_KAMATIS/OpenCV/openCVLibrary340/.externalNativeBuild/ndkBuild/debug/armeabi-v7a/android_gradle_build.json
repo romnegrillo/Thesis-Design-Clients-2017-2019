@@ -1,0 +1,23 @@
+{
+  "buildFiles": [
+    "C:\\Users\\windows\\AndroidStudioProjects\\OpenCV\\app\\build\\intermediates\\ndk\\debug\\Android.mk"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\windows\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\windows\\AndroidStudioProjects\\OpenCV\\app\\build\\intermediates\\ndk\\debug\\Android.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dC:/Users/windows/AndroidStudioProjects/OpenCV/openCVLibrary340/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dC:\\Users\\windows\\AndroidStudioProjects\\OpenCV\\openCVLibrary340\\build\\intermediates\\ndkBuild\\debug\\lib clean"
+  ],
+  "libraries": {
+    "app-debug-armeabi-v7a": {
+      "buildCommand": "C:\\Users\\windows\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\windows\\AndroidStudioProjects\\OpenCV\\app\\build\\intermediates\\ndk\\debug\\Android.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dC:/Users/windows/AndroidStudioProjects/OpenCV/openCVLibrary340/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dC:\\Users\\windows\\AndroidStudioProjects\\OpenCV\\openCVLibrary340\\build\\intermediates\\ndkBuild\\debug\\lib C:/Users/windows/AndroidStudioProjects/OpenCV/openCVLibrary340/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/libapp.so",
+      "toolchain": "toolchain-armeabi-v7a",
+      "abi": "armeabi-v7a",
+      "artifactName": "app",
+      "files": [],
+      "output": "C:\\Users\\windows\\AndroidStudioProjects\\OpenCV\\openCVLibrary340\\build\\intermediates\\ndkBuild\\debug\\obj\\local\\armeabi-v7a\\libapp.so"
+    }
+  },
+  "toolchains": {
+    "toolchain-armeabi-v7a": {}
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": []
+}

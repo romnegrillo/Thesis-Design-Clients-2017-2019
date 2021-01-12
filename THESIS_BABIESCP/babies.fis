@@ -1,0 +1,65 @@
+[System]
+Name='babies'
+Type='mamdani'
+Version=2.0
+NumInputs=4
+NumOutputs=1
+NumRules=16
+AndMethod='min'
+OrMethod='max'
+ImpMethod='min'
+AggMethod='max'
+DefuzzMethod='centroid'
+
+[Input1]
+Name='LH'
+Range=[0 0.05]
+NumMFs=2
+MF1='LOW':'trapmf',[-0.00315 -0.00291 0.02 0.03]
+MF2='HIGH':'trapmf',[0.02 0.03 0.0521 0.0688]
+
+[Input2]
+Name='RH'
+Range=[0 0.05]
+NumMFs=2
+MF1='LOW':'trapmf',[-0.00315 -0.00291 0.02 0.03]
+MF2='HIGH':'trapmf',[0.02 0.03 0.0521 0.0688]
+
+[Input3]
+Name='LF'
+Range=[0 0.008]
+NumMFs=2
+MF1='LOW':'trapmf',[-0.003 -0.000333 0.003 0.005]
+MF2='HIGH':'trapmf',[0.003 0.005 0.00834 0.011]
+
+[Input4]
+Name='RF'
+Range=[0 0.008]
+NumMFs=2
+MF1='LOW':'trapmf',[-0.003 -0.000333 0.003 0.0053]
+MF2='HIGH':'trapmf',[0.003 0.0053 0.00834 0.011]
+
+[Output1]
+Name='Classification'
+Range=[0 1]
+NumMFs=2
+MF1='WITHOUT_SIGNS':'trapmf',[0 0 0.4 0.6]
+MF2='WITH_SIGNS':'trapmf',[0.4 0.6 1 1]
+
+[Rules]
+1 1 1 1, 1 (1) : 1
+1 1 1 2, 1 (1) : 1
+1 1 2 1, 1 (1) : 1
+1 1 2 2, 2 (1) : 1
+1 2 1 1, 1 (1) : 1
+1 2 1 2, 2 (1) : 1
+1 2 2 1, 2 (1) : 1
+1 2 2 2, 2 (1) : 1
+2 1 1 1, 1 (1) : 1
+2 1 1 2, 2 (1) : 1
+2 1 2 1, 2 (1) : 1
+2 1 2 2, 2 (1) : 1
+2 2 1 1, 2 (1) : 1
+2 2 1 2, 2 (1) : 1
+2 2 2 1, 2 (1) : 1
+2 2 2 2, 2 (1) : 1
